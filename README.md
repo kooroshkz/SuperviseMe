@@ -9,9 +9,12 @@ SuperviseMe contains a web scraper that collects information about LIACS (Leiden
 
 ## Files
 
-- `liacs_scraper.py` - Main scraper script
+- `liacs_scraper.py` - Web scraper for LIACS thesis repository
+- `cluster_professors.py` - AI-powered research classification system 
+- `liacs_supervisors_data.json` - Raw thesis data (4,340 theses from 142 professors)
+- `final_results_llm.json` - Complete AI classification results with 100% success rate
 - `requirements.txt` - Python dependencies
-- `liacs_supervisors_data.json` - Generated data file (4,340 theses from 142 supervisors)
+- `.env.example` - Environment variable template
 
 ## How to run locally
 
@@ -21,6 +24,8 @@ SuperviseMe contains a web scraper that collects information about LIACS (Leiden
    source venv/bin/activate
    pip install -r requirements.txt
    python liacs_scraper.py
+   # set the .env file with your OpenRouter API key
+   python cluster_professors.py
    ```
 ## Statistics
 

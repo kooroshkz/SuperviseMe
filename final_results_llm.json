@@ -1,0 +1,4267 @@
+{
+  "Aivaloglou, dr.ir. E. (Fenia)": {
+    "professor_name": "Aivaloglou, dr.ir. E. (Fenia)",
+    "primary_research_areas": [
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Learning Difficulties",
+          "Teaching Methods"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Debugger Design",
+          "Clustering Algorithms"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Data Analysis",
+          "Sentiment Analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The primary focus of Professor Aivaloglou's research is clearly in the area of Programming Education, with a significant number of theses dedicated to understanding and improving the learning and teaching of programming. This includes studies on gender stereotypes in programming books, student stress during exams, teacher perceptions of programming difficulties, and handling abstraction by children. Additionally, there is a notable interest in Systems, particularly in the design and implementation of tools like debuggers and clustering algorithms. The Methods category is also well-represented, with a focus on data analysis and sentiment analysis in educational contexts.",
+    "processing_info": {
+      "thesis_count": 13,
+      "timestamp": "2025-11-16T23:57:56.353275"
+    }
+  },
+  "Amat Lefort, Dr. N. (Natalia)": {
+    "professor_name": "Amat Lefort, Dr. N. (Natalia)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Natural Language Processing",
+          "Machine Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Chatbot Interaction",
+          "User Experience"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Application Development",
+          "System Performance"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on Data Science, particularly in Natural Language Processing and Machine Learning, with multiple theses involving the extraction of information from text and the use of language models. There is also a significant emphasis on Human-aligned AI, focusing on chatbot interactions, user experience, and the impact of social presence. Additionally, there is a notable interest in Software, specifically in application development and system performance, as seen in theses related to government apps and metaverse performance.",
+    "processing_info": {
+      "thesis_count": 13,
+      "timestamp": "2025-11-16T23:58:02.449949"
+    }
+  },
+  "Anzenhofer, dr. K. (Kurt)": {
+    "professor_name": "Anzenhofer, dr. K. (Kurt)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Design",
+          "System Architecture"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Data Warehousing",
+          "Data Management"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Network Services",
+          "Document Management"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The supervised theses indicate a strong focus on software development and data management. Four theses (FRESCO, GINA, Communication Architecture, and Geotronics Network Services) deal with software design and system architecture. Three theses (Data Warehousing: Richtlijnen en Criteria, Het Proces Data Warehousing, and Ontwikkeling van een Beheersysteem bij Geotronics Network Services) focus on data warehousing and data management. The inclusion of network services and document management in two theses suggests a secondary focus on systems and their integration.",
+    "processing_info": {
+      "thesis_count": 6,
+      "timestamp": "2025-11-16T23:58:08.575150"
+    }
+  },
+  "Arbab, prof.dr. F. (Farhad)": {
+    "professor_name": "Arbab, prof.dr. F. (Farhad)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Concurrency and Parallelism",
+          "Formal Methods and Verification"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Distributed Systems",
+          "Component-Based Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on software engineering, particularly in the areas of concurrency, parallelism, and formal methods. Many theses deal with the coordination and interaction of components, often using the Reo framework. This suggests a strong interest in the design, modeling, and verification of component-based systems, which falls under both the 'Software' and 'Systems' categories. The subcategories 'Concurrency and Parallelism' and 'Formal Methods and Verification' are well-supported by theses on protocol programming, monitor construction, and model checking. Similarly, the subcategories 'Distributed Systems' and 'Component-Based Systems' are evident from theses on component connectors, real-time coordination, and synchronous coordination of distributed components.",
+    "processing_info": {
+      "thesis_count": 17,
+      "timestamp": "2025-11-16T23:58:14.959721"
+    }
+  },
+  "Bäck, prof.dr. T.H.W. (Thomas)": {
+    "professor_name": "Bäck, prof.dr. T.H.W. (Thomas)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Evolutionary Algorithms",
+          "Optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 8
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Optimization Heuristics",
+          "Anomaly Detection"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Quantum Computing",
+          "Deep Reinforcement Learning"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly suggest a focus on Machine Learning, particularly in the areas of Evolutionary Algorithms and Optimization. There is also significant evidence of research in Data Science, specifically in Optimization Heuristics and Anomaly Detection. Additionally, there is a moderate presence of Natural Computing, with a focus on Quantum Computing and Deep Reinforcement Learning.",
+    "processing_info": {
+      "thesis_count": 131,
+      "timestamp": "2025-11-16T23:58:21.179363"
+    }
+  },
+  "Bakker, dr. E.M. (Erwin)": {
+    "professor_name": "Bakker, dr. E.M. (Erwin)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Computer vision"
+        ],
+        "confidence": "high",
+        "evidence_count": 37
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Time series analysis",
+          "Feature extraction"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Bioinformatics",
+        "subcategories": [
+          "Genomics",
+          "Protein structure prediction"
+        ],
+        "confidence": "medium",
+        "evidence_count": 8
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning, particularly deep learning and computer vision applications such as object detection, image classification, and speech recognition. There is also a significant number of theses related to data science, especially time series analysis and feature extraction. A smaller but notable number of theses are in the bioinformatics domain, focusing on genomics and protein structure prediction.",
+    "processing_timestamp": "2025-11-17T00:08:22.259197"
+  },
+  "Baratchi, dr. M. (Mitra)": {
+    "professor_name": "Baratchi, dr. M. (Mitra)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Automated machine learning (AutoML)",
+          "Time series analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data-driven predictive maintenance",
+          "Remote sensing"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Indoor positioning systems",
+          "Satellite systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles indicate a strong focus on machine learning, particularly in automated machine learning (AutoML) and time series analysis. There is also a significant emphasis on data science, especially in data-driven predictive maintenance and remote sensing applications. Additionally, several theses suggest a moderate interest in systems, including indoor positioning and satellite systems.",
+    "processing_timestamp": "2025-11-17T00:08:26.127041"
+  },
+  "Barbero,  G. (Giulio)": {
+    "professor_name": "Barbero,  G. (Giulio)",
+    "primary_research_areas": [
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Teaching Methods and Strategies",
+          "Error Handling and Feedback"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "AI in Education",
+          "AI in Games"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Game Development",
+          "User Interaction"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate that Professor Barbero focuses on Programming Education, particularly in teaching methods, strategies, and error handling. There is also a significant focus on Human-aligned AI, especially in educational and game contexts. Additionally, there is a notable interest in Systems, particularly in game development and user interaction.",
+    "processing_timestamp": "2025-11-17T00:08:29.951116"
+  },
+  "Bariatti, dr. F. (Francesco)": {
+    "professor_name": "Bariatti, dr. F. (Francesco)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Interpretable models",
+          "Rule-based learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Predictive modeling",
+          "Imbalanced data handling"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Dr. Bariatti focus on machine learning, particularly in interpretable models and rule-based learning. There is also a notable emphasis on data science, specifically in predictive modeling and handling imbalanced data. While not as prominent, there is some evidence of work in business-related areas, but it is not strong enough to confidently include it as a primary research area.",
+    "processing_timestamp": "2025-11-17T00:08:33.308424"
+  },
+  "Basold, dr. H. (Henning)": {
+    "professor_name": "Basold, dr. H. (Henning)",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Category Theory",
+          "Formal Semantics"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Programming Languages",
+          "Type Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Compilers",
+          "Simulation"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The professor's research is heavily focused on theoretical aspects, particularly category theory and formal semantics. There is also a strong emphasis on software, specifically programming languages and type systems. Additionally, there is a notable interest in systems, including compilers and simulation, although to a lesser extent.",
+    "processing_timestamp": "2025-11-17T00:08:36.721148"
+  },
+  "Batenburg, prof.dr. K.J. (Joost)": {
+    "professor_name": "Batenburg, prof.dr. K.J. (Joost)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Image processing"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data generation",
+          "Synthetic data"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Imaging systems",
+          "Radio tomography"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "Professor Batenburg's supervised theses predominantly focus on machine learning, particularly deep learning and image processing. There is also significant emphasis on data science, especially in data generation and synthetic data. Additionally, several theses involve systems, particularly imaging systems and radio tomography.",
+    "processing_timestamp": "2025-11-17T00:08:40.185852"
+  },
+  "Bergh, dr. M.J.H. (Mark) van den": {
+    "professor_name": "Bergh, dr. M.J.H. (Mark) van den",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Game Theory",
+          "Combinatorial Games"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Monte Carlo Methods",
+          "Decision-Making Algorithms"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on the analysis and development of algorithms and methods for combinatorial games and puzzle-solving. There is a strong emphasis on game theory, with specific interest in combinatorial games and decision-making algorithms, including the use of Monte Carlo methods. The evidence strongly supports the categories of Theory and Methods, with a particular focus on game theory and Monte Carlo methods.",
+    "processing_timestamp": "2025-11-17T00:08:43.793316"
+  },
+  "Blockeel, dr.ir. H.L.W. (Hendrik)": {
+    "professor_name": "Blockeel, dr.ir. H.L.W. (Hendrik)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data mining",
+          "Network analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Relational learning",
+          "Biological data analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      },
+      {
+        "top_level": "Bioinformatics",
+        "subcategories": [
+          "Protein interaction networks",
+          "Relational data"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles suggest a strong focus on data science, particularly in data mining and network analysis. There is also a significant emphasis on machine learning, especially in the context of relational data and biological data analysis. Additionally, the research area of bioinformatics is evident, particularly in the analysis of protein-protein interaction networks and relational data.",
+    "processing_timestamp": "2025-11-17T00:08:47.655953"
+  },
+  "Boer, prof.dr. F.S. (Frank) de": {
+    "professor_name": "Boer, prof.dr. F.S. (Frank) de",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Engineering",
+          "Programming Languages"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Formal Methods",
+          "Verification"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Distributed Systems",
+          "Real-time Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles indicate a strong focus on software engineering, particularly in areas such as program verification, formal methods, and programming languages. There is also significant evidence of research in methods, specifically formal verification and analysis of software systems. Additionally, there is a notable interest in systems, particularly distributed and real-time systems, though this area has fewer supporting theses compared to the other two.",
+    "processing_timestamp": "2025-11-17T00:08:56.588725"
+  },
+  "Bonsangue, prof.dr. M.M. (Marcello)": {
+    "professor_name": "Bonsangue, prof.dr. M.M. (Marcello)",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Formal Methods",
+          "Automata Theory"
+        ],
+        "confidence": "high",
+        "evidence_count": 26
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Testing",
+          "Formal Verification"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Machine Learning",
+        "subcategories": [
+          "Automata Learning",
+          "Deep Learning"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on theoretical aspects of computer science, particularly formal methods and automata theory. A significant number of theses also deal with software testing and formal verification, indicating a strong emphasis on ensuring software reliability. There is also a moderate presence of research in machine learning, especially in automata learning and deep learning applications.",
+    "processing_timestamp": "2025-11-17T00:09:06.553985"
+  },
+  "Bos, prof.dr. H.J. (Herbert)": {
+    "professor_name": "Bos, prof.dr. H.J. (Herbert)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Distributed Systems",
+          "Network Security"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cybersecurity",
+          "Malware Detection"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on distributed systems, including parallel and distributed processing, high-speed traffic monitoring, and computational grids. There is also a significant focus on network security, particularly in areas such as worm detection, containment, and active networking for network management. These themes strongly support the classification into 'Systems' and 'Security' categories.",
+    "processing_timestamp": "2025-11-17T00:09:10.360978"
+  },
+  "Bos, prof.dr. J. (Jan) van den": {
+    "professor_name": "Bos, prof.dr. J. (Jan) van den",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "User Interface",
+          "Data Structures"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Networking",
+          "Geographic Information Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The thesis titles indicate a strong focus on software development, particularly in user interfaces and data structures. There is also a significant emphasis on systems, including networking and geographic information systems.",
+    "processing_timestamp": "2025-11-17T00:09:18.790098"
+  },
+  "Broekens, dr.ir. D.J. (Joost)": {
+    "professor_name": "Broekens, dr.ir. D.J. (Joost)",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Human-Robot Interaction",
+          "Conversational Agents"
+        ],
+        "confidence": "high",
+        "evidence_count": 26
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Natural Language Processing"
+        ],
+        "confidence": "high",
+        "evidence_count": 14
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Emotion Recognition",
+          "Behavioral Economics"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Professor Broekens focus on Human-aligned AI, particularly in the areas of Human-Robot Interaction and Conversational Agents. There is also a strong presence of Machine Learning, with a focus on Reinforcement Learning and Natural Language Processing. Additionally, several theses touch on Cognitive Psychology, specifically in Emotion Recognition and Behavioral Economics.",
+    "processing_timestamp": "2025-11-17T00:09:22.828417"
+  },
+  "Cao, dr. L. (Lu)": {
+    "professor_name": "Cao, dr. L. (Lu)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Computer vision"
+        ],
+        "confidence": "high",
+        "evidence_count": 24
+      },
+      {
+        "top_level": "Bioinformatics",
+        "subcategories": [
+          "Genetic analysis",
+          "Medical imaging"
+        ],
+        "confidence": "high",
+        "evidence_count": 16
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data pipelines",
+          "Image processing"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning, particularly deep learning and computer vision, with applications in bioinformatics and medical imaging. There is also a significant number of theses that involve data science, including data pipelines and image processing.",
+    "processing_timestamp": "2025-11-17T00:09:26.425494"
+  },
+  "Chaudron, prof.dr. M.R.V. (Michael)": {
+    "professor_name": "Chaudron, prof.dr. M.R.V. (Michael)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Engineering",
+          "Software Architecture"
+        ],
+        "confidence": "high",
+        "evidence_count": 23
+      },
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Software Design Education",
+          "Interactive Learning"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Empirical Studies",
+          "Modeling Techniques"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The majority of the theses supervised by Professor Chaudron focus on various aspects of software engineering and software architecture, including UML, design patterns, and maintainability. A smaller but significant number of theses are related to programming education, particularly in the context of software design and interactive learning. Additionally, a few theses emphasize empirical methods and modeling techniques, which are classified under the 'Methods' category.",
+    "processing_timestamp": "2025-11-17T00:09:30.811857"
+  },
+  "Chen, dr. Q. (Qinyu)": {
+    "professor_name": "Chen, dr. Q. (Qinyu)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Natural Language Processing"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data analysis",
+          "Structured data mapping"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on various aspects of machine learning, including deep learning and natural language processing. Multiple theses involve neural networks, language models, and data analysis, which strongly supports the classification under Machine Learning. Additionally, some theses suggest a focus on data science, particularly in data analysis and structured data mapping, but this is supported by fewer theses, leading to a medium confidence level for this category.",
+    "processing_timestamp": "2025-11-17T00:09:39.837395"
+  },
+  "Deprettere, prof.dr.ir. E.F.A. (Ed)": {
+    "professor_name": "Deprettere, prof.dr.ir. E.F.A. (Ed)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Embedded Systems",
+          "Real-Time Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 21
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Compilers",
+          "Parallel Programming"
+        ],
+        "confidence": "high",
+        "evidence_count": 17
+      }
+    ],
+    "analysis_summary": "The thesis titles clearly indicate a strong focus on systems, particularly in the areas of embedded systems and real-time systems. There is also a significant emphasis on software, specifically in compilers and parallel programming. These areas are supported by a large number of theses, making the classification highly confident.",
+    "processing_timestamp": "2025-11-17T00:09:42.748817"
+  },
+  "Deutz, dr. A.H. (André)": {
+    "professor_name": "Deutz, dr. A.H. (André)",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Quantum Computing",
+          "Cryptography"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Evolutionary Algorithms",
+          "Dynamical Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Time-series Analysis",
+          "Random Walks"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The professor's research is strongly focused on theoretical aspects, particularly in quantum computing and cryptography, with multiple theses addressing topics such as Grover's algorithm and post-quantum cryptography. There is also a significant emphasis on natural computing, including evolutionary algorithms and dynamical systems. Additionally, there is moderate evidence of research in data science, particularly in time-series analysis and random walks applied to molecular landscapes.",
+    "processing_timestamp": "2025-11-17T00:09:47.358749"
+  },
+  "Dijk, dr. B.M.A. (Bram) van": {
+    "professor_name": "Dijk, dr. B.M.A. (Bram) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Bias in AI",
+          "Natural Language Processing"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "AI in Storytelling",
+          "Ethical AI"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on machine learning, particularly in reducing bias and natural language processing. There is also a significant focus on human-aligned AI, including ethical considerations and AI applications in storytelling and idea generation.",
+    "processing_timestamp": "2025-11-17T00:09:50.978191"
+  },
+  "Dijk , ir.  M.K. van  (Richard)": {
+    "professor_name": "Dijk , ir.  M.K. van  (Richard)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Data Visualization",
+          "Database Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Machine Learning",
+        "subcategories": [
+          "Deep Learning",
+          "Pattern Recognition"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Localization Systems",
+          "GPS Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The professor's research is heavily focused on Data Science, particularly in data visualization and database systems, with multiple theses involving historical data, OCR, and data linking. There is also a strong presence of Machine Learning, especially in deep learning and pattern recognition. Additionally, there is a moderate focus on Systems, particularly in localization and GPS systems.",
+    "processing_timestamp": "2025-11-17T00:09:56.745785"
+  },
+  "Doughty, Dr. H.R. (Hazel)": {
+    "professor_name": "Doughty, Dr. H.R. (Hazel)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Computer vision"
+        ],
+        "confidence": "high",
+        "evidence_count": 9
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Image and video processing",
+          "Text data analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning techniques, particularly deep learning and computer vision, with a strong emphasis on image and video processing. Several theses also involve text data analysis, which supports the data science category. The evidence for the business category is minimal and not strong enough to include as a primary research area.",
+    "processing_timestamp": "2025-11-17T00:10:01.552041"
+  },
+  "Duijn, dr. M.J. (Max) van": {
+    "professor_name": "Duijn, dr. M.J. (Max) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine Learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "AI and Human Interaction"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Theory of Mind",
+          "Human-Robot Interaction"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on machine learning, particularly in natural language processing and AI-human interaction, as well as cognitive psychology, with a specific emphasis on theory of mind and human-robot interaction.",
+    "processing_timestamp": "2025-11-17T00:10:04.683279"
+  },
+  "Dunjko, prof.dr. V. (Vedran)": {
+    "professor_name": "Dunjko, prof.dr. V. (Vedran)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Quantum machine learning",
+          "Reinforcement learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 21
+      },
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Quantum algorithms",
+          "Quantum circuits"
+        ],
+        "confidence": "high",
+        "evidence_count": 16
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on quantum machine learning and the development of quantum algorithms, particularly in the context of reinforcement learning and optimization. There is a significant emphasis on quantum circuits and their applications in various computational tasks, as well as the exploration of classical-quantum hybrid approaches.",
+    "processing_timestamp": "2025-11-17T00:10:07.852269"
+  },
+  "Edixhoven, MSc L.J. (Luc)": {
+    "professor_name": "Edixhoven, MSc L.J. (Luc)",
+    "primary_research_areas": [
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Algorithm Development",
+          "Optimization Techniques"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Monte Carlo Methods"
+        ],
+        "confidence": "medium",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The professor's supervised theses primarily focus on methods for algorithm development and optimization techniques, as seen in the optimization of preprocessing speed and generating and solving puzzles. There is also a moderate focus on machine learning, particularly reinforcement learning and Monte Carlo methods, as evidenced by the thesis on determining game values using Monte Carlo Tree Search.",
+    "processing_timestamp": "2025-11-17T00:10:11.487215"
+  },
+  "Eiben, prof.dr. A.E. (Agoston)": {
+    "professor_name": "Eiben, prof.dr. A.E. (Agoston)",
+    "primary_research_areas": [
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Evolutionary algorithms",
+          "Artificial life"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Adaptive algorithms",
+          "Heuristic optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly suggest a focus on natural computing, particularly in the areas of evolutionary algorithms and artificial life. There is also a significant overlap with machine learning, especially in adaptive algorithms and heuristic optimization techniques. The research areas are well-supported by the majority of the thesis titles, indicating a consistent and focused research agenda.",
+    "processing_timestamp": "2025-11-17T00:10:20.063371"
+  },
+  "Emmerich, dr. M.T.M. (Michael)": {
+    "professor_name": "Emmerich, dr. M.T.M. (Michael)",
+    "primary_research_areas": [
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Evolutionary algorithms",
+          "Optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 45
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Surrogate models",
+          "Multi-objective optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 22
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Multi-criteria decision making",
+          "Complex network analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 15
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on natural computing, particularly evolutionary algorithms and optimization techniques. A significant number of theses also involve machine learning, specifically surrogate models and multi-objective optimization. There is also a notable presence of data science, with a focus on multi-criteria decision making and complex network analysis. These categories are supported by a large number of theses, providing strong evidence for their classification.",
+    "processing_timestamp": "2025-11-17T00:10:24.262672"
+  },
+  "Engelfriet, dr. J. (Joost)": {
+    "professor_name": "Engelfriet, dr. J. (Joost)",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Formal Languages and Automata Theory",
+          "Logic in Computer Science"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Model Checking",
+          "Semantics of Programming Languages"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Engelfriet, dr. J. (Joost) focus on theoretical aspects of computer science, particularly in formal languages, automata theory, and logic. Topics like tree transducers, tree-walking automata, monadic second order logic, and pi-calculus processes are indicative of a strong focus on formal methods and theoretical computer science. Additionally, several theses deal with Petri nets, model checking, and semantics, suggesting a significant interest in methods for verifying and understanding system behavior.",
+    "processing_timestamp": "2025-11-17T00:10:33.176759"
+  },
+  "Engels, prof.dr. G. (Gregor)": {
+    "professor_name": "Engels, prof.dr. G. (Gregor)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Engineering",
+          "Object-Oriented Programming"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Modeling",
+          "Testing"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Query Tools",
+          "Database Languages"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles clearly indicate a strong focus on software engineering, particularly in object-oriented programming and modeling. There is also a significant emphasis on methods, specifically in testing and modeling. Some theses also touch on data science, particularly in the context of query tools and database languages.",
+    "processing_timestamp": "2025-11-17T00:10:42.240611"
+  },
+  "Fan, dr. Y. (Yingjie)": {
+    "professor_name": "Fan, dr. Y. (Yingjie)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Deep Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Optimization Algorithms",
+          "Routing and Scheduling"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Logistics and Supply Chain",
+          "Incentive Design"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      }
+    ],
+    "analysis_summary": "Professor Fan, dr. Y. (Yingjie) has a strong focus on machine learning, particularly in reinforcement learning and deep learning, applied to optimization problems in logistics and routing. There is also a significant emphasis on systems research, specifically in optimization algorithms and routing and scheduling. Additionally, several theses indicate a strong interest in business applications, especially in logistics and supply chain management, and the design of incentive schemes.",
+    "processing_timestamp": "2025-11-17T00:10:46.983876"
+  },
+  "Ford, Dr.ing. M.C. (Chase)": {
+    "professor_name": "Ford, Dr.ing. M.C. (Chase)",
+    "primary_research areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Modal Logic",
+          "Coalgebraic Structures"
+        ],
+        "confidence": "high",
+        "evidence_count": 1
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Automata Extraction",
+          "Neural Networks"
+        ],
+        "confidence": "high",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The thesis titles suggest a strong focus on theoretical foundations, particularly in modal logic and coalgebraic structures, as well as practical applications in machine learning, specifically in the extraction of automata from neural networks. Both areas are strongly represented, warranting classification under 'Theory' and 'Machine learning'.",
+    "processing_timestamp": "2025-11-17T00:10:50.701870"
+  },
+  "Gadyatskaya, dr. O. (Olga)": {
+    "professor_name": "Gadyatskaya, dr. O. (Olga)",
+    "primary_research_areas": [
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cybersecurity",
+          "Malware Analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 22
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Explainable AI",
+          "Automated Fuzzing"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Secure Software Development",
+          "Automated Testing"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on various aspects of cybersecurity, including malware detection, vulnerability analysis, and threat intelligence. There is also a significant emphasis on machine learning techniques, particularly in the context of explainable AI and automated fuzzing. Some theses also delve into secure software development practices and automated testing, indicating a moderate focus on software engineering.",
+    "processing_timestamp": "2025-11-17T00:11:00.426555"
+  },
+  "Goeman, drs. H.J.M. (Henk)": {
+    "professor_name": "Goeman, drs. H.J.M. (Henk)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Data Mining",
+          "Database Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Machine Learning",
+        "subcategories": [
+          "Clustering",
+          "Automatic Recognition"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on data science, particularly in data mining and database systems, with a significant emphasis on machine learning techniques such as clustering and automatic recognition. There is consistent evidence across multiple theses supporting these categories.",
+    "processing_timestamp": "2025-11-17T00:11:03.589418"
+  },
+  "Gómez Maureira,  M.A. (Marcello)": {
+    "professor_name": "Gómez Maureira,  M.A. (Marcello)",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Human-Robot Interaction",
+          "AI Bias"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Player Behavior",
+          "Mood and Emotion"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Embodiment in Games",
+          "Perspective in Games"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The professor's research is primarily focused on Human-aligned AI, with a strong emphasis on human-robot interaction and reducing AI bias. There is also a significant focus on Cognitive Psychology, particularly in understanding player behavior and emotions in interactive systems. Additionally, the professor explores various methods in game design, including embodiment and perspective effects, which supports the Methods category.",
+    "processing_timestamp": "2025-11-17T00:11:08.109497"
+  },
+  "Goultiaev, dr. A.P. (Sacha)": {
+    "professor_name": "Goultiaev, dr. A.P. (Sacha)",
+    "primary_research_areas": [
+      {
+        "top_level": "Bioinformatics",
+        "subcategories": [
+          "RNA Biology",
+          "Genomic Analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Predictive Modeling"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on bioinformatics, particularly on RNA biology and genomic analysis. Several theses also involve machine learning, specifically in the context of RNA design and predictive modeling in medical contexts. The focus on RNA-related topics is consistent throughout the theses, indicating a strong research emphasis on bioinformatics.",
+    "processing_timestamp": "2025-11-17T00:11:11.460526"
+  },
+  "Graaf, dr. J.M. (Jeannette) de": {
+    "professor_name": "Graaf, dr. J.M. (Jeannette) de",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Game AI"
+        ],
+        "confidence": "high",
+        "evidence_count": 26
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Optimization Algorithms",
+          "Puzzle Solving"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Algorithmic Complexity",
+          "Quantum Computing"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on machine learning, particularly in the context of reinforcement learning and game AI. There is also a significant number of theses on methods, especially optimization algorithms and puzzle solving. A moderate presence of theoretical topics, including algorithmic complexity and quantum computing, is evident as well.",
+    "processing_timestamp": "2025-11-17T00:11:16.298626"
+  },
+  "Groenewegen, dr. L.P.J. (Luuk)": {
+    "professor_name": "Groenewegen, dr. L.P.J. (Luuk)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Engineering",
+          "Modeling and Simulation"
+        ],
+        "confidence": "high",
+        "evidence_count": 24
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Distributed Systems",
+          "Workflow and Process Modelling"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Business Process Management",
+          "Information Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Professor Groenewegen focus on software engineering, particularly in the areas of modeling, simulation, and process management. There is also a significant number of theses related to systems, especially distributed systems and workflow modeling. Additionally, several theses address business processes and information systems, indicating a moderate focus on business-related research.",
+    "processing_timestamp": "2025-11-17T00:11:22.408679"
+  },
+  "Groot, prof.dr. D. (Doug) De": {
+    "professor_name": "Groot, prof.dr. D. (Doug) De",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Systems",
+          "Networking"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Distributed Systems",
+          "Network Management"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The thesis titles suggest a strong focus on software and systems, particularly in the areas of networking, distributed systems, and network management. Multiple theses deal with network-related topics such as adaptive routing, active networking, and network management, while others focus on system design and implementation, such as job hosting systems and bot hosting systems. There is no strong evidence for other categories.",
+    "processing_timestamp": "2025-11-17T00:11:25.646631"
+  },
+  "Haring, prof.dr. S. (Bas)": {
+    "professor_name": "Haring, prof.dr. S. (Bas)",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "AI Ethics",
+          "AI in Education"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Human-Computer Interaction",
+          "Cognitive Science"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The supervised thesis titles indicate a strong focus on Human-aligned AI, particularly in the areas of AI ethics and AI in education. There is also a notable presence of research in Cognitive Psychology, especially in human-computer interaction and cognitive science. The diversity of topics suggests a broad interest in how technology interacts with human behavior and society.",
+    "processing_timestamp": "2025-11-17T00:11:30.293000"
+  },
+  "Heide,  E. (Edwin) van der": {
+    "professor_name": "Heide,  E. (Edwin) van der",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Machine Learning in Human-Computer Interaction",
+          "Embodied Interaction"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Perception and Cognition in Interactive Systems",
+          " multimodal interaction"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Generative Algorithms",
+          "Bio-inspired Computing"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on the intersection of human interaction with technology, particularly in the realms of machine learning, perception, and multimodal interaction. Many theses explore how humans interact with and perceive auditory, visual, and tactile stimuli, often in the context of digital systems and AI. There is also a notable interest in generative algorithms and bio-inspired computing, but this is less prominent compared to the other two areas.",
+    "processing_timestamp": "2025-11-17T00:11:34.738131"
+  },
+  "Heijstek, dr. W. (Werner)": {
+    "professor_name": "Heijstek, dr. W. (Werner)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Engineering",
+          "Software Architecture"
+        ],
+        "confidence": "high",
+        "evidence_count": 22
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Information Systems",
+          "Agile Methodologies"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cyber Security",
+          "Data Privacy"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on software engineering and architecture, with a strong emphasis on practical applications in business settings, including agile methodologies and information systems. There is also a significant body of work on security, particularly in cyber security and data privacy.",
+    "processing_timestamp": "2025-11-17T00:11:44.914053"
+  },
+  "Hemert, dr. J.I. (Jano) van": {
+    "professor_name": "Hemert, dr. J.I. (Jano) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Scripting Languages",
+          "Planning and Scheduling"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Telescopic Observation Systems",
+          "Observation Scheduling"
+        ],
+        "confidence": "medium",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The thesis titles indicate a strong focus on software development, specifically in using scripting languages for planning and defining problem-solving approaches. There is also a clear interest in systems, particularly in the scheduling and operation of telescopic observation systems like LOFAR.",
+    "processing_timestamp": "2025-11-17T00:11:47.986673"
+  },
+  "Herik, prof. dr. H.J. (Jaap) van den": {
+    "professor_name": "Herik, prof. dr. H.J. (Jaap) van den",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Risk assessment",
+          "Behavior detection"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Corporate entrepreneurship",
+          "SME support"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Network analysis",
+          "Sentiment analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The supervised theses indicate a strong focus on machine learning, particularly in risk assessment and behavior detection. There is also a significant emphasis on business topics, such as corporate entrepreneurship and support for SMEs. Data science, with a focus on network analysis and sentiment analysis, is another prominent area.",
+    "processing_timestamp": "2025-11-17T00:11:57.738600"
+  },
+  "Hermans, dr.ir. F.F.J. (Felienne)": {
+    "professor_name": "Hermans, dr.ir. F.F.J. (Felienne)",
+    "primary_research_areas": [
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Novice Programmer Support",
+          "Educational Tools and Environments"
+        ],
+        "confidence": "high",
+        "evidence_count": 17
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Programming Languages and Environments",
+          "Software Debugging and Testing"
+        ],
+        "confidence": "medium",
+        "evidence_count": 9
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Programming Misconceptions",
+          "Learning and Problem Solving"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Professor Hermans focus on programming education, particularly on supporting novice programmers, developing educational tools, and understanding programming misconceptions. There is also a significant focus on software development, including programming languages, debugging, and testing. Cognitive psychology aspects, such as learning and problem-solving in programming, are also well-represented.",
+    "processing_timestamp": "2025-11-17T00:12:07.606009"
+  },
+  "Hiep,  H.D. (Hans-Dieter)": {
+    "professor_name": "Hiep,  H.D. (Hans-Dieter)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Formal Methods",
+          "Concurrent Programming"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Verification",
+          "Programming Languages"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles indicate a strong focus on formal methods and verification in software, particularly in the context of concurrent programming and specific data structures. The involvement in visual programming and circuit verification further supports an emphasis on programming methods and verification techniques.",
+    "processing_timestamp": "2025-11-17T00:12:10.707447"
+  },
+  "Hilbert, Dr. M. (Marc)": {
+    "professor_name": "Hilbert, Dr. M. (Marc)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Explainable AI"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Predictive analytics",
+          "Anomaly detection"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "AI-based systems",
+          "Custom methodologies"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning, particularly deep learning architectures like transformers and large language models (LLMs), as well as explainable AI techniques. There is a strong emphasis on data science, including predictive analytics and anomaly detection. Additionally, there is a notable focus on software, specifically in the context of AI-based systems and custom methodologies for AI and machine learning projects.",
+    "processing_timestamp": "2025-11-17T00:12:14.875097"
+  },
+  "Hoogeboom, dr. H.J. (Hendrik Jan)": {
+    "professor_name": "Hoogeboom, dr. H.J. (Hendrik Jan)",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Formal Languages and Automata Theory",
+          "Computational Complexity"
+        ],
+        "confidence": "high",
+        "evidence_count": 28
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Molecular Computing",
+          "Membrane Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Monte Carlo Methods",
+          "Neural Networks"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on theoretical aspects of computer science, particularly formal languages, automata theory, and computational complexity. There is also a significant number of theses in natural computing, particularly in molecular computing and membrane systems. A smaller but notable number of theses involve machine learning techniques, especially Monte Carlo methods and neural networks.",
+    "processing_timestamp": "2025-11-17T00:12:18.766177"
+  },
+  "Hoos, prof.dr. H.H. (Holger)": {
+    "professor_name": "Hoos, prof.dr. H.H. (Holger)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Automated Machine Learning",
+          "Deep Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 17
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data Structures",
+          "Time Series Analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Algorithm Portfolios",
+          "Parallel Algorithms"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on various aspects of machine learning, particularly automated machine learning and deep learning. There is also a notable presence of research in data science, especially concerning data structures and time series analysis. Additionally, a few theses touch on systems research, focusing on algorithm portfolios and parallel algorithms.",
+    "processing_timestamp": "2025-11-17T00:12:22.629863"
+  },
+  "Huijsmans, dr. D.P. (Nies)": {
+    "professor_name": "Huijsmans, dr. D.P. (Nies)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Computer vision",
+          "Pattern recognition"
+        ],
+        "confidence": "high",
+        "evidence_count": 9
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data processing",
+          "Database systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software development",
+          "Web technologies"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Prof. Huijsmans focus on machine learning, particularly in computer vision and pattern recognition. Several theses also involve data science, including data processing and database systems. A few theses focus on software development and web technologies, indicating a moderate focus on software.",
+    "processing_timestamp": "2025-11-17T00:12:27.225770"
+  },
+  "Jong,  R.G. (Rachel) de": {
+    "professor_name": "Jong,  R.G. (Rachel) de",
+    "primary_research_areas": [
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Network Security",
+          "Anonymity and Privacy"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Network Analysis",
+          "Privacy-Preserving Data Mining"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The professor's supervised theses are primarily focused on network anonymity and privacy, which are key areas in security and data science. The titles consistently mention anonymization, privacy, and network analysis, indicating a strong focus on these topics.",
+    "processing_timestamp": "2025-11-17T00:12:30.452512"
+  },
+  "Jong Kon Chin, prof.dr. S. (Simcha)": {
+    "professor_name": "Jong Kon Chin, prof.dr. S. (Simcha)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data Privacy",
+          "Data Analytics"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cybersecurity",
+          "Blockchain Security"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Innovation Management",
+          "Stakeholder Analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The professor's research is heavily focused on data science and security, particularly in areas such as data privacy, analytics, and blockchain security. There is also a significant focus on business-related topics, including innovation management and stakeholder analysis. These areas are supported by multiple theses, providing strong evidence for the primary research areas.",
+    "processing_timestamp": "2025-11-17T00:12:35.418419"
+  },
+  "Jonker, prof.dr. C.M. (Catholijn)": {
+    "professor_name": "Jonker, prof.dr. C.M. (Catholijn)",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Ethical AI",
+          "Human-Computer Interaction"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis 'Opinion Diversity Through Hybrid Intelligence' indicates a focus on integrating human and machine intelligence, which is a key aspect of Human-aligned AI. The thesis 'When Computers Should Say They Are Sorry: Adaptive Versus Unconditional' suggests an interest in the ethical aspects of AI and how machines can better interact with humans, which also falls under the broader category of Human-aligned AI.",
+    "processing_timestamp": "2025-11-17T00:12:43.738697"
+  },
+  "Kappé, Dr. T.W.J. (Tobias)": {
+    "professor_name": "Kappé, Dr. T.W.J. (Tobias)",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Formal Methods",
+          "Algebraic Structures"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Formal Verification",
+          "Parser Engineering"
+        ],
+        "confidence": "medium",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The thesis titles suggest a strong focus on theoretical aspects such as completeness, decidability, and formal methods in algebraic structures (e.g., Kleene Algebra). There is also a significant emphasis on practical applications in software, particularly in equivalence checking and parser engineering for packet processing.",
+    "processing_timestamp": "2025-11-17T00:12:52.660357"
+  },
+  "Katzy, prof.dr. B.R. (Bernard)": {
+    "professor_name": "Katzy, prof.dr. B.R. (Bernard)",
+    "primary_research_areas": [
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Innovation Management",
+          "Corporate Entrepreneurship"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on various aspects of business, particularly innovation management and corporate entrepreneurship. Topics such as corporate venture management, innovation project governance, open innovation, and cluster dynamics strongly support this classification. There is no significant evidence to suggest a strong focus on other top-level categories such as theory, natural computing, or human-aligned AI.",
+    "processing_timestamp": "2025-11-17T00:12:55.357676"
+  },
+  "Kienhuis, dr.ir. A.C.J. (Bart)": {
+    "professor_name": "Kienhuis, dr.ir. A.C.J. (Bart)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Parallel and Distributed Systems",
+          "Processor Architectures"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Engineering Tools",
+          "Integrated Development Environments (IDEs)"
+        ],
+        "confidence": "high",
+        "evidence_count": 9
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on systems research, particularly in the areas of parallel and distributed systems, process networks, and processor architectures. There is also a significant emphasis on software engineering, including tools and IDEs for software development and optimization.",
+    "processing_timestamp": "2025-11-17T00:13:00.772307"
+  },
+  "Kleijn, prof.dr. H.C.M. (Jetty)": {
+    "professor_name": "Kleijn, prof.dr. H.C.M. (Jetty)",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Formal Methods",
+          "Petri Nets"
+        ],
+        "confidence": "high",
+        "evidence_count": 22
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Verification",
+          "Modeling"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Concurrency",
+          "Distributed Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on formal methods, particularly Petri nets and their various applications, which strongly aligns with the 'Theory' category. Several theses also focus on software verification and modeling, indicating a significant emphasis in the 'Software' category. There is also evidence of research in concurrency and distributed systems, which falls under the 'Systems' category. The evidence for 'Systems' is less strong but still notable.",
+    "processing_timestamp": "2025-11-17T00:28:12"
+  },
+  "Kleijn, Dr.ir. R.E. (Roy) de": {
+    "professor_name": "Kleijn, Dr.ir. R.E. (Roy) de",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Human-Robot Interaction",
+          "Behavioral Economics"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Behavioral Analysis",
+          "Collaborative Meaning-Making"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The thesis titles indicate a strong focus on human-robot interaction, particularly in the context of behavioral economics and collaborative meaning-making. This aligns well with the categories 'Human-aligned AI' and 'Cognitive Psychology'. The evidence supports a high confidence in these classifications.",
+    "processing_timestamp": "2025-11-17T00:13:36.332201"
+  },
+  "Knijnenburg, dr. P.M.W.  (Peter)": {
+    "professor_name": "Knijnenburg, dr. P.M.W.  (Peter)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Compiler Optimization",
+          "Programming Techniques"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Statistical Methods",
+          "Experimental Design"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The professor's supervised theses primarily focus on compiler optimization, including statistical methods and experimental design techniques. This strongly indicates a focus on software engineering, particularly in compiler optimization and programming techniques. There is also a moderate focus on methods, particularly in statistical and experimental approaches to optimization.",
+    "processing_timestamp": "2025-11-17T00:13:39.537503"
+  },
+  "Knobbe, dr. A.J. (Arno)": {
+    "professor_name": "Knobbe, dr. A.J. (Arno)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Time series analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data mining",
+          "Predictive analytics"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Computer vision",
+          "Sensor networks"
+        ],
+        "confidence": "medium",
+        "evidence_count": 8
+      }
+    ],
+    "analysis_summary": "The thesis titles suggest a strong focus on machine learning, particularly in deep learning and time series analysis. There is also a significant emphasis on data science, with a focus on data mining and predictive analytics. Additionally, several theses related to systems, such as computer vision and sensor networks, indicate a moderate focus in this area.",
+    "processing_timestamp": "2025-11-17T00:13:44.224154"
+  },
+  "Kok, prof.dr. J.N. (Joost)": {
+    "professor_name": "Kok, prof.dr. J.N. (Joost)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Data mining"
+        ],
+        "confidence": "high",
+        "evidence_count": 20
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data management",
+          "Data visualization"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software architecture",
+          "Software maintenance"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning, particularly deep learning and data mining techniques. A significant number also involve data science, with an emphasis on data management and visualization. There is also a notable presence of software-related research, focusing on software architecture and maintenance.",
+    "processing_timestamp": "2025-11-17T00:13:50.658796"
+  },
+  "Kononova, dr. A.V. (Anna)": {
+    "professor_name": "Kononova, dr. A.V. (Anna)",
+    "primary_research_areas": [
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Evolutionary algorithms",
+          "Metaheuristics"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Automated machine learning",
+          "Optimization in machine learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Benchmarking",
+          "Optimization problems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The professor's research is heavily focused on natural computing, particularly evolutionary algorithms and metaheuristics, with a significant emphasis on optimization problems. There is also a strong presence of machine learning, specifically in the areas of automated machine learning and optimization within machine learning pipelines. Data science is another relevant area, particularly in benchmarking and solving optimization problems.",
+    "processing_timestamp": "2025-11-17T00:13:54.795825"
+  },
+  "Koopman, dr. P.W.M. (Pieter)": {
+    "professor_name": "Koopman, dr. P.W.M. (Pieter)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Distributed Systems",
+          "Software Engineering"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Networking",
+          "Data Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The thesis titles 'Towards Distributed Development of Large Object-Oriented Models' and 'Gondel, Een Generiek Ontwerp voor Netwerk Data Elementen' provide strong evidence for a focus on software, particularly in distributed systems and software engineering. 'Signal Browser' suggests some involvement with systems, specifically in networking and data systems.",
+    "processing_timestamp": "2025-11-17T00:13:58.499282"
+  },
+  "Kosters, dr. W.A. (Walter)": {
+    "professor_name": "Kosters, dr. W.A. (Walter)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Deep Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 45
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data Mining",
+          "Pattern Recognition"
+        ],
+        "confidence": "high",
+        "evidence_count": 35
+      },
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Algorithm Design",
+          "Complexity Analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 25
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on the application of machine learning techniques, particularly reinforcement learning and deep learning, to various problems including games, puzzles, and real-world applications. There is a significant number of theses that deal with data science, specifically data mining and pattern recognition, in contexts such as bioinformatics and real-time data analysis. The professor also has a strong interest in theoretical aspects, including algorithm design and complexity analysis, often in the context of game theory and combinatorial problems.",
+    "processing_timestamp": "2025-11-17T00:14:03.186461"
+  },
+  "Kouwe, dr. E. (Erik) van der": {
+    "professor_name": "Kouwe, dr. E. (Erik) van der",
+    "primary_research_areas": [
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Software Security",
+          "Fuzzing"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Programming Languages",
+          "Compiler Techniques"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Performance Evaluation",
+          "Error Detection"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on security, particularly in the context of software security and fuzzing techniques. Several theses also delve into software aspects like programming languages and compiler techniques, and there is a notable interest in performance evaluation and error detection within systems.",
+    "processing_timestamp": "2025-11-17T00:29:15"
+  },
+  "Kowalczyk, dr. W.J. (Wojtek)": {
+    "professor_name": "Kowalczyk, dr. W.J. (Wojtek)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 14
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Anomaly detection",
+          "Predictive modeling"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cybersecurity",
+          "Fraud detection"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Professor Kowalczyk focus on machine learning, particularly deep learning and reinforcement learning techniques. There is also a strong emphasis on data science, with a significant number of theses related to anomaly detection and predictive modeling. Additionally, there is a notable presence of security-related research, including cybersecurity and fraud detection.",
+    "processing_timestamp": "2025-11-17T00:14:38.952936"
+  },
+  "Kraaij, prof.dr.ir. W. (Wessel)": {
+    "professor_name": "Kraaij, prof.dr.ir. W. (Wessel)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Machine learning",
+          "Data visualization"
+        ],
+        "confidence": "high",
+        "evidence_count": 8
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural language processing",
+          "Health informatics"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on data science techniques, particularly involving machine learning and data visualization. Several theses are specifically related to natural language processing and health informatics, indicating a strong emphasis in these subcategories.",
+    "processing_timestamp": "2025-11-17T00:14:47.583186"
+  },
+  "Kripe, drs. Z. (Zane)": {
+    "professor_name": "Kripe, drs. Z. (Zane)",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "AI and Human Interaction",
+          "AI in Social Contexts"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Social Behavior",
+          "Cognitive Processes"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The professor's research focuses heavily on human-aligned AI, particularly in how AI interacts with and influences human behavior and social contexts. This is evident from the theses on social awkwardness, large language models, and presence in 360-degree video. Additionally, there is a moderate focus on cognitive psychology, specifically in areas related to social behavior and cognitive processes, as seen in the theses on social awkwardness and attention training through gamification.",
+    "processing_timestamp": "2025-11-17T00:14:56.761141"
+  },
+  "Kruiswijk,  J.B. (Bas)": {
+    "professor_name": "Kruiswijk,  J.B. (Bas)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Enterprise Architecture",
+          "Information Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 16
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Project Management",
+          "Risk Management"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Data Security",
+          "Compliance"
+        ],
+        "confidence": "medium",
+        "evidence_count": 6
+      }
+    ],
+    "analysis_summary": "The thesis titles supervised by Professor Kruiswijk (Bas) predominantly focus on enterprise architecture, information systems, and the management of IT and business processes. There is a strong emphasis on the design, implementation, and governance of complex systems, particularly in the context of enterprise architecture. Additionally, several theses address project management and risk management, indicating a significant interest in these areas. The professor also shows a moderate interest in security, particularly in data security and compliance with regulatory standards.",
+    "processing_timestamp": "2025-11-17T00:15:00.668505"
+  },
+  "Kwantes,  P.M. (Pieter)": {
+    "professor_name": "Kwantes,  P.M. (Pieter)",
+    "primary_research_areas": [
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Digital Transformation",
+          "Process Automation"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Implementation",
+          "Process Redesign"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Phishing Prevention",
+          "IT Audit"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on business-related topics, particularly digital transformation and process automation, with a significant emphasis on the use of technology to improve business processes. There is also a moderate focus on software implementation and process redesign, as well as some attention to security issues, specifically phishing prevention and IT audit support.",
+    "processing_timestamp": "2025-11-17T00:15:03.965790"
+  },
+  "Laarman, dr. A.W. (Alfons)": {
+    "professor_name": "Laarman, dr. A.W. (Alfons)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Formal Verification",
+          "Algorithms"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Quantum Computing",
+          "Graph Theory"
+        ],
+        "confidence": "high",
+        "evidence_count": 14
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Parallel Computing",
+          "Distributed Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The professor's research is strongly focused on software, particularly in formal verification and algorithms, with a significant emphasis on quantum computing and graph theory within the theory category. There is also a moderate focus on systems, especially parallel computing and distributed systems.",
+    "processing_timestamp": "2025-11-17T00:15:08.101913"
+  },
+  "Lamers, dr. M.H. (Maarten)": {
+    "professor_name": "Lamers, dr. M.H. (Maarten)",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Human-Computer Interaction",
+          "Affective Computing"
+        ],
+        "confidence": "high",
+        "evidence_count": 28
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Perception and Cognition",
+          "Emotion and Affect"
+        ],
+        "confidence": "high",
+        "evidence_count": 21
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Virtual Reality",
+          "Interactive Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 15
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on human-computer interaction, affective computing, and the cognitive and emotional aspects of user experience. There is a strong emphasis on how technology can be designed to enhance human interaction and affect, particularly in virtual and interactive environments. Additionally, several theses explore the development and evaluation of interactive systems, including virtual reality and augmented reality applications, which supports the classification in the 'Systems' category.",
+    "processing_timestamp": "2025-11-17T00:15:12.440262"
+  },
+  "Leeuwen, dr. M. (Matthijs) van": {
+    "professor_name": "Leeuwen, dr. M. (Matthijs) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Anomaly detection",
+          "Classification and prediction"
+        ],
+        "confidence": "high",
+        "evidence_count": 20
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data mining",
+          "Pattern recognition"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Interpretable models",
+          "Human-guided learning"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning techniques, particularly in anomaly detection and classification/prediction tasks. There is also a strong emphasis on data science, including data mining and pattern recognition. A smaller but significant number of theses involve human-aligned AI, focusing on interpretable models and human-guided learning processes.",
+    "processing_timestamp": "2025-11-17T00:15:16.087880"
+  },
+  "Leeuwen, drs. P. (Paul) van": {
+    "professor_name": "Leeuwen, drs. P. (Paul) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Knowledge Management",
+          "Business Continuity"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Development",
+          "Digital Accessibility"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The professor's supervised theses focus heavily on business-related topics such as knowledge management and business continuity. There is also a notable focus on software development and digital accessibility, which falls under the Software category. The other theses do not provide enough evidence to confidently assign additional top-level categories.",
+    "processing_timestamp": "2025-11-17T00:15:19.383860"
+  },
+  "Lefebvre, Dr. A.E.J.L. (Armel)": {
+    "professor_name": "Lefebvre, Dr. A.E.J.L. (Armel)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "Healthcare Applications"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Health Informatics",
+          "Predictive Analytics"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on machine learning, particularly in the context of natural language processing and healthcare applications. Additionally, there is a significant emphasis on data science, especially in health informatics and predictive analytics. The research is consistently aligned with these areas, providing strong evidence for the classification.",
+    "processing_timestamp": "2025-11-17T00:15:23.801739"
+  },
+  "leFever, dr. H.T. (Hans)": {
+    "professor_name": "leFever, dr. H.T. (Hans)",
+    "primary_research_areas": [
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Technology Integration",
+          "Decision Making"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Predictive Analytics",
+          "Data Quality"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Way-Finding Systems",
+          "Cloud Computing"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles suggest a strong focus on business-oriented research, particularly in technology integration and decision-making processes. There is also significant evidence of data science applications, especially in predictive analytics and data quality. Additionally, there is a moderate focus on systems, involving innovative way-finding systems and cloud computing security.",
+    "processing_timestamp": "2025-11-17T00:15:27.122945"
+  },
+  "Lew, prof.dr. M.S.K. (Michael)": {
+    "professor_name": "Lew, prof.dr. M.S.K. (Michael)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Computer vision"
+        ],
+        "confidence": "high",
+        "evidence_count": 40
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Image and audio processing",
+          "Feature extraction"
+        ],
+        "confidence": "high",
+        "evidence_count": 30
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Real-time systems",
+          "Embedded systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 15
+      }
+    ],
+    "analysis_summary": "The professor's research is heavily focused on machine learning, particularly in deep learning and computer vision. There is a significant number of theses related to image and audio processing, feature extraction, and real-time systems, which also falls under the broader category of data science. Additionally, there is a moderate presence of research in systems, specifically real-time and embedded systems.",
+    "processing_timestamp": "2025-11-17T00:15:30.713170"
+  },
+  "Li, dr. X. (Xishu)": {
+    "professor_name": "Li, dr. X. (Xishu)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Neural networks",
+          "Predictive modeling"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Organizational performance",
+          "Risk management"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Statistical methods",
+          "Forecasting"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The professor has a strong focus on machine learning, particularly in the application of neural networks and predictive modeling. There is also a significant emphasis on business-related research, including organizational performance and risk management. Data science, with a focus on statistical methods and forecasting, is another key area, though with slightly less evidence compared to the other two.",
+    "processing_timestamp": "2025-11-17T00:15:34.220001"
+  },
+  "Li,  Z. (Zhong)": {
+    "professor_name": "Li,  Z. (Zhong)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Anomaly detection",
+          "Feature selection"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data-centric approaches",
+          "Pollutant level analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on machine learning, particularly in the area of anomaly detection and feature selection. There is also a significant emphasis on data science, especially with data-centric approaches and analysis of environmental data such as pollutant levels.",
+    "processing_timestamp": "2025-11-17T00:15:53.552307"
+  },
+  "Lucas, prof.dr. P.J.F. (Peter)": {
+    "professor_name": "Lucas, prof.dr. P.J.F. (Peter)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Bayesian Networks",
+          "Probabilistic Graphical Models"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Health Informatics",
+          "Predictive Modeling"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The professor's supervised theses suggest a strong focus on machine learning, particularly in the areas of Bayesian Networks and Probabilistic Graphical Models. There is also a significant emphasis on data science, especially in health informatics and predictive modeling. The theses on clinical decision support systems, treatment selection bias, and mobile health platforms strongly support these areas.",
+    "processing_timestamp": "2025-11-17T00:15:57.174192"
+  },
+  "Makri, Dr.ir. E. (Eleftheria)": {
+    "professor_name": "Makri, Dr.ir. E. (Eleftheria)",
+    "primary_research_areas": [
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cybersecurity",
+          "Privacy-preserving techniques"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Secure machine learning",
+          "Privacy-preserving machine learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "IoT systems",
+          "Network security"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on security, particularly in the areas of cybersecurity and privacy-preserving techniques. A significant number also delve into machine learning, with a specific emphasis on secure and privacy-preserving machine learning. There is moderate evidence of research in systems, especially concerning IoT networks and network security.",
+    "processing_timestamp": "2025-11-17T00:16:01.012972"
+  },
+  "Manegold, prof.dr. S. (Stefan)": {
+    "professor_name": "Manegold, prof.dr. S. (Stefan)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Database Systems",
+          "Performance Optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Engineering",
+          "Performance Analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles suggest a strong focus on database systems and performance optimization within data science. The research involves GPU decompression, progressive indexes, integrating analytics with relational databases, and performance regression detection, all of which are closely related to data science and software engineering. The consistent theme of performance and optimization across multiple theses supports the classification into these categories.",
+    "processing_timestamp": "2025-11-17T00:16:09.793592"
+  },
+  "Martorelli,  I. (Irene)": {
+    "professor_name": "Martorelli,  I. (Irene)",
+    "primary_research_areas": [
+      {
+        "top_level": "Bioinformatics",
+        "subcategories": [
+          "Data Integration",
+          "Fungal Genomics"
+        ],
+        "confidence": "high",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The thesis title 'Integrating ARISE Fungal ITS Data in the MycoDiversity Database for Biological Research' strongly indicates a focus on bioinformatics, specifically in data integration and fungal genomics. While there is only one thesis title, the specific focus on integrating fungal data into a database is a clear indicator of bioinformatics research.",
+    "processing_timestamp": "2025-11-17T00:16:13.324992"
+  },
+  "Mentens, prof.dr.ir. N. (Nele)": {
+    "professor_name": "Mentens, prof.dr.ir. N. (Nele)",
+    "primary_research_areas": [
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cybersecurity",
+          "Fault Analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Neural Networks",
+          "Reinforcement Learning"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "IoT",
+          "Embedded Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on security aspects, particularly cybersecurity and fault analysis in various systems such as IoT and embedded neural networks. There is also a significant presence of machine learning, with a focus on neural networks and reinforcement learning, especially in the context of security. Additionally, several theses involve systems research, specifically in IoT and embedded systems, further supporting the classification in these areas.",
+    "processing_timestamp": "2025-11-17T00:16:17.163003"
+  },
+  "Meulen, dr. A.N. (Anna) van der": {
+    "professor_name": "Meulen, dr. A.N. (Anna) van der",
+    "primary_research_areas": [
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Computational Thinking",
+          "Educational Games"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "AI in Education",
+          "Ethical AI"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on various aspects of programming education, including computational thinking, teaching methods, and educational games. There is also a significant number of theses that explore the integration of AI in education, particularly from a student and ethical perspective.",
+    "processing_timestamp": "2025-11-17T00:16:26.046997"
+  },
+  "Moerland, dr. T. (Thomas)": {
+    "professor_name": "Moerland, dr. T. (Thomas)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Deep Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 14
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Optimization Techniques",
+          "Algorithm Analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on various aspects of reinforcement learning and deep learning, including optimization, exploration, and application to specific tasks. There is also a notable focus on methodological aspects, such as optimization techniques and algorithm analysis, though this is less prevalent than the machine learning focus.",
+    "processing_timestamp": "2025-11-17T00:16:29.453518"
+  },
+  "Müller-Brockhausen, MSc M.F.T. (Matthias)": {
+    "professor_name": "Müller-Brockhausen, MSc M.F.T. (Matthias)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement learning",
+          "Deep learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 8
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Game AI",
+          "Procedural content generation"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "AI development",
+          "Algorithm design"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on developing and optimizing AI agents and algorithms, particularly in the context of games, which falls strongly under machine learning and systems. The use of reinforcement learning (e.g., Rainbow DQN, Godapt, FlappyBird) and deep learning (e.g., LLMs for Dota 2) is prevalent. Additionally, several theses involve the development of systems and software for AI and algorithm design, including procedural content generation and game AI, which supports the classification in the 'Systems' and 'Software' categories.",
+    "processing_timestamp": "2025-11-17T00:16:33.938773"
+  },
+  "Neukart, dr.  F. (Florian)": {
+    "professor_name": "Neukart, dr.  F. (Florian)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Quantum machine learning",
+          "Optimization algorithms"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Quantum computing",
+          "Hybrid quantum-classical systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "All four theses supervised by Professor Neukart involve quantum computing and its applications, particularly in machine learning and optimization. The focus on quantum-assisted methods and hybrid systems indicates a strong emphasis on both natural computing and machine learning, with specific subcategories related to quantum machine learning and optimization algorithms.",
+    "processing_timestamp": "2025-11-17T00:16:37.589530"
+  },
+  "Nieuwenburg, dr. E.P.L. (Evert) van": {
+    "professor_name": "Nieuwenburg, dr. E.P.L. (Evert) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Quantum Machine Learning",
+          "Reinforcement Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Quantum Computing",
+        "subcategories": [
+          "Quantum Algorithms",
+          "Quantum Games"
+        ],
+        "confidence": "high",
+        "evidence_count": 9
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data Extraction",
+          "Reproducibility in Science"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on quantum computing and machine learning, particularly quantum algorithms, quantum games, and reinforcement learning. There is also a notable interest in data science, specifically in AI-powered data extraction and improving scientific reproducibility.",
+    "processing_timestamp": "2025-11-17T00:16:42.242928"
+  },
+  "Nieuwpoort, prof.dr. R.V. (Rob) van": {
+    "professor_name": "Nieuwpoort, prof.dr. R.V. (Rob) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Compiler Optimization",
+          "Hardware-Accelerated Computing"
+        ],
+        "confidence": "high",
+        "evidence_count": 9
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Performance Optimization",
+          "Inference"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      },
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Educational Tools"
+        ],
+        "confidence": "low",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on system-level topics, particularly compiler optimization and hardware-accelerated computing. There is also a moderate presence of machine learning, especially in performance optimization and inference, and a single thesis that touches on programming education tools.",
+    "processing_timestamp": "2025-11-17T00:16:46.348931"
+  },
+  "Nijssen, dr. S.G.R. (Siegfried)": {
+    "professor_name": "Nijssen, dr. S.G.R. (Siegfried)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Machine Learning",
+          "Data Mining"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Distributed Systems",
+          "Server Management"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      },
+      {
+        "top_level": "Machine Learning",
+        "subcategories": [
+          "Deep Learning",
+          "Stochastic Optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The professor's research is heavily focused on data science and machine learning, with multiple theses involving data mining, deep learning, and stochastic optimization. There is also a significant emphasis on systems, particularly in the context of server management and distributed systems. The evidence for these areas is strong based on the number of relevant theses.",
+    "processing_timestamp": "2025-11-17T00:16:50.541044"
+  },
+  "Offerman, MSc T. (Tyron)": {
+    "professor_name": "Offerman, MSc T. (Tyron)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "DevOps",
+          "Automation"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Technology Forecasting",
+          "Digital Transformation"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Machine Learning",
+          "Data Interoperability"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The professor's research areas are strongly focused on software, particularly in DevOps and automation. There is a moderate focus on business, specifically in technology forecasting and digital transformation. Data science, including machine learning and data interoperability, is another significant area of interest.",
+    "processing_timestamp": "2025-11-17T00:16:54.156309"
+  },
+  "Ollongren, prof.dr. A. (Alexander)": {
+    "professor_name": "Ollongren, prof.dr. A. (Alexander)",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Process Algebra",
+          "Formal Methods"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Concurrent Systems",
+          "Data Structures"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "Professor Ollongren's research focuses heavily on theoretical aspects of computer science, particularly in the areas of process algebra and formal methods. There is strong evidence for this from the theses on formalization of process algebra, concurrent system verification, and the use of binomial trees in data structures. Additionally, there is a significant focus on software, specifically on concurrent systems and data structures, as indicated by the theses on concurrent system verification and data structures.",
+    "processing_timestamp": "2025-11-17T00:16:57.741015"
+  },
+  "Papuc, Ir. D. (Dalia)": {
+    "professor_name": "Papuc, Ir. D. (Dalia)",
+    "primary_research_areas": [
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Computational Learning",
+          "Educational Activities"
+        ],
+        "confidence": "high",
+        "evidence_count": 2
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Puzzle Solving",
+          "Algorithm Development"
+        ],
+        "confidence": "medium",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The thesis titles indicate a strong focus on enhancing computational learning and enthusiasm through educational activities, particularly in the context of scouts. This aligns well with the category of Programming Education, specifically subcategories related to computational learning and educational activities. There is also some evidence of research in methods, particularly in the context of solving and generating puzzles, which suggests an interest in algorithm development and problem-solving techniques.",
+    "processing_timestamp": "2025-11-17T00:17:01.422419"
+  },
+  "Pelt, dr. D.M. (Daan)": {
+    "professor_name": "Pelt, dr. D.M. (Daan)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Computer vision"
+        ],
+        "confidence": "high",
+        "evidence_count": 17
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Synthetic data generation",
+          "Image processing"
+        ],
+        "confidence": "medium",
+        "evidence_count": 8
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Dr. Daan Pelt focus on machine learning, particularly deep learning and computer vision techniques. Many theses involve image processing and synthetic data generation, which are key areas in data science. The high number of theses in machine learning and data science indicates a strong research focus in these areas.",
+    "processing_timestamp": "2025-11-17T00:17:07.619776"
+  },
+  "Perin, dr. G. (Guilherme)": {
+    "professor_name": "Perin, dr. G. (Guilherme)",
+    "primary_research_areas": [
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Side-Channel Attacks",
+          "Fault Injection Attacks"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Neural Networks",
+          "Generative Adversarial Networks"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on security, particularly side-channel attacks and fault injection attacks. There is also a moderate presence of machine learning, specifically involving neural networks and generative adversarial networks.",
+    "processing_timestamp": "2025-11-17T00:17:11.266787"
+  },
+  "Peters, prof.dr. F.J. (Frans)": {
+    "professor_name": "Peters, prof.dr. F.J. (Frans)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Parallel and Distributed Systems",
+          "Computer Graphics"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Image Processing",
+          "Computational Geometry"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The thesis titles indicate a strong focus on systems, particularly parallel and distributed systems, and computer graphics. There is also a notable presence of research in methods, specifically image processing and computational geometry. The evidence for systems is strong with six theses, while methods have four supporting theses.",
+    "processing_timestamp": "2025-11-17T00:17:16.070362"
+  },
+  "Pickl, prof.dr. S.W. (Stefan)": {
+    "professor_name": "Pickl, prof.dr. S.W. (Stefan)",
+    "primary_research_areas": [
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Supply Chain Management",
+          "Robotic Process Automation"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Big Data Analytics",
+          "Data Governance"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cybersecurity",
+          "Fraud Detection"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "Professor Pickl's research primarily focuses on Business, particularly in areas like supply chain management and robotic process automation. There is strong evidence of a focus on Data Science, specifically in big data analytics and data governance. Additionally, there is a moderate focus on Security, with emphasis on cybersecurity and fraud detection.",
+    "processing_timestamp": "2025-11-17T00:17:25.315325"
+  },
+  "Plaat, prof.dr. A. (Aske)": {
+    "professor_name": "Plaat, prof.dr. A. (Aske)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Deep Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 36
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Analytics",
+          "Optimization"
+        ],
+        "confidence": "medium",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Game Development",
+          "Algorithm Optimization"
+        ],
+        "confidence": "medium",
+        "evidence_count": 9
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on Machine Learning, particularly Reinforcement Learning and Deep Learning. There is also a significant number of theses related to Data Science, focusing on analytics and optimization. Additionally, several theses are related to Software, especially in the context of game development and algorithm optimization.",
+    "processing_timestamp": "2025-11-17T00:17:29.351445"
+  },
+  "Preuss, dr. M. (Mike)": {
+    "professor_name": "Preuss, dr. M. (Mike)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement Learning",
+          "Deep Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 24
+      },
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Human-AI Interaction",
+          "AI in Games"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Quantum Computing",
+          "Evolutionary Algorithms"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The majority of the theses supervised by Professor Preuss focus on machine learning, particularly reinforcement learning and deep learning. There is a strong emphasis on human-aligned AI, especially in the context of games and human-AI interaction. Additionally, there is a notable presence of natural computing, including quantum computing and evolutionary algorithms, although to a lesser extent compared to the other two categories.",
+    "processing_timestamp": "2025-11-17T00:17:48.847110"
+  },
+  "Putten, dr. P.W.H. (Peter) van der": {
+    "professor_name": "Putten, dr. P.W.H. (Peter) van der",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Human-Robot Interaction",
+          "AI Ethics"
+        ],
+        "confidence": "high",
+        "evidence_count": 20
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "Deep Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data Mining",
+          "Predictive Analytics"
+        ],
+        "confidence": "medium",
+        "evidence_count": 12
+      }
+    ],
+    "analysis_summary": "The professor's research is heavily focused on Human-aligned AI, particularly in human-robot interaction and AI ethics. There is also a strong emphasis on machine learning, with a significant number of theses on natural language processing and deep learning. Additionally, there is a moderate focus on data science, particularly in data mining and predictive analytics.",
+    "processing_timestamp": "2025-11-17T00:17:53.098696"
+  },
+  "Ramackers, dr. G.J. (Guus)": {
+    "professor_name": "Ramackers, dr. G.J. (Guus)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Model-Driven Engineering",
+          " requirements engineering"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "Explainable AI"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data mining",
+          "Data quality"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The professor's research primarily focuses on software engineering, particularly in the areas of Model-Driven Engineering and requirements engineering. There is also a strong emphasis on machine learning, with specific interests in Natural Language Processing and Explainable AI. Additionally, there is a notable focus on data science, particularly in data mining and data quality.",
+    "processing_timestamp": "2025-11-17T00:18:02.518970"
+  },
+  "Raponi, Dr. E. (Elena)": {
+    "professor_name": "Raponi, Dr. E. (Elena)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Optimization algorithms",
+          "Bayesian optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Evolutionary algorithms",
+          "Genetic algorithms"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on optimization techniques within machine learning, particularly Bayesian optimization and evolutionary algorithms. There is a strong emphasis on enhancing and applying these methods to various problems, such as hyperparameter tuning and robotic floor planning. The presence of evolutionary algorithms and genetic algorithms in several theses also suggests a significant interest in natural computing.",
+    "processing_timestamp": "2025-11-17T00:18:05.971249"
+  },
+  "Rekers, dr. J.G. (Jan)": {
+    "professor_name": "Rekers, dr. J.G. (Jan)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Formal Methods",
+          "Programming Languages"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "Dialogue Systems"
+        ],
+        "confidence": "medium",
+        "evidence_count": 1
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Parsing Algorithms",
+          "Graph Grammars"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The professor's research primarily focuses on software, particularly in formal methods and programming languages, as evidenced by the theses on graph grammars, lexical scanning, and network data elements. There is also a moderate focus on machine learning, specifically in natural language processing and dialogue systems, and methods, particularly in parsing algorithms and graph grammars.",
+    "processing_timestamp": "2025-11-17T00:18:10.095854"
+  },
+  "Ren, Dr. Z. (Zhaochun)": {
+    "professor_name": "Ren, Dr. Z. (Zhaochun)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "Reinforcement Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 16
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Anomaly Detection",
+          "Data-driven Decision Making"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles are focused on natural language processing (NLP) and reinforcement learning, which are key areas within machine learning. Several theses also deal with anomaly detection and data-driven decision making, which are relevant to data science. The high number of theses in these areas provides strong evidence for these classifications.",
+    "processing_timestamp": "2025-11-17T00:18:14.052209"
+  },
+  "Rietveld, dr. K.F.D. (Kristian)": {
+    "professor_name": "Rietveld, dr. K.F.D. (Kristian)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Parallel Computing",
+          "Performance Optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 20
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Compiler Optimization",
+          "Security"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Machine Learning",
+          "Data Analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 8
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on systems research, particularly in parallel computing and performance optimization. There is also a significant emphasis on software, specifically in compiler optimization and security. Additionally, there is a moderate presence of data science topics, including machine learning and data analysis, suggesting a broad but focused research portfolio in these areas.",
+    "processing_timestamp": "2025-11-17T00:18:18.398644"
+  },
+  "Rijn, dr. J.N. (Jan) van": {
+    "professor_name": "Rijn, dr. J.N. (Jan) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep learning",
+          "Automated machine learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 28
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Predictive modeling",
+          "Feature engineering"
+        ],
+        "confidence": "high",
+        "evidence_count": 14
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Optimization",
+          "Algorithm selection"
+        ],
+        "confidence": "medium",
+        "evidence_count": 9
+      }
+    ],
+    "analysis_summary": "The majority of the supervised thesis titles are focused on machine learning, with a strong emphasis on deep learning and automated machine learning techniques. Several theses also involve data science, particularly predictive modeling and feature engineering. Additionally, there is a noticeable focus on methods, specifically optimization and algorithm selection, suggesting a broader interest in improving and refining machine learning processes.",
+    "processing_timestamp": "2025-11-17T00:18:23.503321"
+  },
+  "Rozenberg, prof.dr. G. (Grzegorz)": {
+    "professor_name": "Rozenberg, prof.dr. G. (Grzegorz)",
+    "primary_research_areas": [
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "DNA computing",
+          "Molecular computing"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Formal methods",
+          "Concurrency theory"
+        ],
+        "confidence": "high",
+        "evidence_count": 8
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on natural computing, particularly in DNA computing and molecular computing. There is also a significant emphasis on theoretical aspects, including formal methods and concurrency theory, as evidenced by the number of theses in these areas.",
+    "processing_timestamp": "2025-11-17T00:18:26.844319"
+  },
+  "Salehkaleybar, Dr. S. (Saber)": {
+    "professor_name": "Salehkaleybar, Dr. S. (Saber)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Causal inference",
+          "Predictive modeling"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Time series analysis",
+          "Data-driven methods"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning techniques, particularly causal inference and predictive modeling. There is also a significant presence of data science methods, including time series analysis and data-driven approaches.",
+    "processing_timestamp": "2025-11-17T00:30:19"
+  },
+  "Saunders, dr. R. (Rob)": {
+    "professor_name": "Saunders, dr. R. (Rob)",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "AI and Creativity",
+          "Human-Robot Interaction"
+        ],
+        "confidence": "high",
+        "evidence_count": 21
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Generative Models",
+          "Transfer Learning"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Social Creativity",
+          "Cognitive Models"
+        ],
+        "confidence": "medium",
+        "evidence_count": 6
+      }
+    ],
+    "analysis_summary": "The primary research areas of Professor Saunders, dr. R. (Rob) are heavily focused on Human-aligned AI, particularly in AI and Creativity and Human-Robot Interaction. There is also significant evidence of research in Machine Learning, especially in generative models and transfer learning. Additionally, there is a moderate presence of Cognitive Psychology, focusing on social creativity and cognitive models.",
+    "processing_timestamp": "2025-11-17T00:19:05.156175"
+  },
+  "Saxena, Dr. A. (Akrati)": {
+    "professor_name": "Saxena, Dr. A. (Akrati)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Network Analysis",
+          "Social Media Analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Web Privacy",
+          "Tracker Detection"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on data science, particularly network analysis and social media analysis. Several theses examine the topology, communication patterns, and community detection in social networks like Bluesky and artist collaboration networks. There is also a notable focus on security, specifically web privacy and tracker detection in online environments.",
+    "processing_timestamp": "2025-11-17T00:19:08.986223"
+  },
+  "Sprinkhuizen-Kuyper, dr. I.G. (Ida)": {
+    "professor_name": "Sprinkhuizen-Kuyper, dr. I.G. (Ida)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Neural Networks",
+          "Genetic Algorithms"
+        ],
+        "confidence": "high",
+        "evidence_count": 9
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Information Filtering",
+          "Data Mining"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Professor Sprinkhuizen-Kuyper focus on machine learning, with a strong emphasis on neural networks and genetic algorithms. Several theses also explore data science topics, particularly information filtering and data mining. While there is some overlap with other areas like software and systems, the evidence strongly supports the primary focus on machine learning and data science.",
+    "processing_timestamp": "2025-11-17T00:19:12.254480"
+  },
+  "Spruit, prof.dr. M.R. (Marco)": {
+    "professor_name": "Spruit, prof.dr. M.R. (Marco)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Supervised Learning",
+          "Unsupervised Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 20
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Text Mining",
+          "Predictive Modeling"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Natural Language Processing",
+          "Machine Learning for Healthcare"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning techniques, particularly in supervised and unsupervised learning, with a strong emphasis on data science methods such as text mining and predictive modeling. There is also a significant presence of natural computing, especially in natural language processing and machine learning applications in healthcare. These areas are well-represented across multiple theses, providing strong evidence for these classifications.",
+    "processing_timestamp": "2025-11-17T00:19:22.304071"
+  },
+  "Stefanov, dr. T.P. (Todor)": {
+    "professor_name": "Stefanov, dr. T.P. (Todor)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Embedded Systems",
+          "Real-Time Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 26
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Compilers and Optimization",
+          "Machine Learning"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Hardware Security",
+          "Software Security"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on the design, optimization, and security of embedded and real-time systems, indicating a strong emphasis on systems research. Several theses also touch on software optimization and machine learning, particularly in the context of embedded and real-time systems. There is a moderate focus on security, especially in the areas of hardware and software security.",
+    "processing_timestamp": "2025-11-17T00:19:27.052107"
+  },
+  "Stein, dr. N. (Niki) van": {
+    "professor_name": "Stein, dr. N. (Niki) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement learning",
+          "Deep learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 21
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Optimization",
+          "Time series analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Natural computing",
+        "subcategories": [
+          "Evolutionary algorithms",
+          "Genetic programming"
+        ],
+        "confidence": "medium",
+        "evidence_count": 8
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles indicate a strong focus on machine learning, particularly in areas like reinforcement learning and deep learning. A significant number of theses also deal with optimization problems and time series analysis, which fall under data science. There is also a notable presence of natural computing techniques, especially evolutionary algorithms and genetic programming.",
+    "processing_timestamp": "2025-11-17T00:19:31.232753"
+  },
+  "Stettina, dr. C.J. (Christoph)": {
+    "professor_name": "Stettina, dr. C.J. (Christoph)",
+    "primary_research_areas": [
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Agile Methodologies",
+          "Organizational Performance"
+        ],
+        "confidence": "high",
+        "evidence_count": 26
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "DevOps",
+          "Technology Integration"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "AI in Business",
+          "Technology Forecasting"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "Professor Stettina's research primarily focuses on business and software, particularly in Agile methodologies and organizational performance. There is also a significant emphasis on data science, especially in the application of AI in business and technology forecasting. The evidence is strong in the business and software categories, with multiple theses supporting these areas, and medium in data science, with a notable but smaller number of theses related to AI and forecasting.",
+    "processing_timestamp": "2025-11-17T00:19:35.198759"
+  },
+  "Takes, dr. F.W. (Frank)": {
+    "professor_name": "Takes, dr. F.W. (Frank)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Network Analysis",
+          "Machine Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 30
+      },
+      {
+        "top_level": "Machine Learning",
+        "subcategories": [
+          "Predictive Modeling",
+          "Fairness and Ethics"
+        ],
+        "confidence": "high",
+        "evidence_count": 25
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Anonymization",
+          "Fraud Detection"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on data science, particularly in network analysis and machine learning. There is a significant number of theses that deal with predictive modeling and fairness in machine learning. Security is also a notable area, especially in anonymization and fraud detection. While other categories like business and systems are touched upon, they are not as dominant as data science and machine learning.",
+    "processing_timestamp": "2025-11-17T00:19:39.008051"
+  },
+  "Uta, dr. A. (Alex)": {
+    "professor_name": "Uta, dr. A. (Alex)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Distributed Systems",
+          "Performance Optimization"
+        ],
+        "confidence": "high",
+        "evidence_count": 7
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Parallel Computing",
+          "Code Generation"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on the performance and optimization of distributed systems, including microservices, parallel computing, and GPU-based code generation. There is also a significant focus on software engineering aspects, particularly in parallel computing and code generation techniques. The evidence for these categories is strong, with multiple theses supporting each area.",
+    "processing_timestamp": "2025-11-17T00:19:48.001220"
+  },
+  "Veen,  P.M. (Peter) van": {
+    "professor_name": "Veen,  P.M. (Peter) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Organizational Structure",
+          "Digital Transformation"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Data Governance",
+          "FAIR Data"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "IT Governance",
+          "Service Delivery"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles supervised by Professor Veen, P.M. (Peter) van indicate a strong focus on business-related topics, particularly organizational structure and digital transformation. There is also significant evidence of research in data science, with a focus on data governance and FAIR data principles. Additionally, there is a moderate presence of research in systems, specifically IT governance and new channels of public service delivery.",
+    "processing_timestamp": "2025-11-17T00:19:57.901941"
+  },
+  "Veenman, dr. C.J. (Cor)": {
+    "professor_name": "Veenman, dr. C.J. (Cor)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Supervised learning",
+          "Predictive modeling"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data analysis",
+          "Network analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Criminal networks",
+          "Bias detection"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The thesis titles strongly indicate a focus on machine learning, particularly in supervised learning and predictive modeling, with a significant number of theses applying these techniques to various domains. Data science is another prominent area, with a focus on network analysis and data analysis. Security appears as a secondary focus, particularly in the context of criminal networks and bias detection in text.",
+    "processing_timestamp": "2025-11-17T00:20:01.442677"
+  },
+  "Verbeek, prof.dr.ir. F.J. (Fons)": {
+    "professor_name": "Verbeek, prof.dr.ir. F.J. (Fons)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Image analysis",
+          "Bioinformatics"
+        ],
+        "confidence": "high",
+        "evidence_count": 45
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data visualization",
+          "High-throughput data processing"
+        ],
+        "confidence": "high",
+        "evidence_count": 30
+      },
+      {
+        "top_level": "Bioinformatics",
+        "subcategories": [
+          "Genomics",
+          "Proteomics"
+        ],
+        "confidence": "high",
+        "evidence_count": 20
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles indicate a strong focus on machine learning, particularly in the context of image analysis and bioinformatics. There is also a significant emphasis on data science, with many projects involving data visualization and high-throughput data processing. Additionally, several theses are specifically focused on bioinformatics, particularly in genomics and proteomics.",
+    "processing_timestamp": "2025-11-17T00:20:05.469098"
+  },
+  "Verberne, prof.dr. S. (Suzan)": {
+    "professor_name": "Verberne, prof.dr. S. (Suzan)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "Deep Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 25
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Text Mining",
+          "Data Analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Conversational Agents",
+          "Bias Reduction"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Professor Verberne focus on natural language processing and deep learning techniques, particularly in the context of text mining and data analysis. There is also a significant emphasis on human-aligned AI, including conversational agents and reducing bias in AI models. The evidence for these areas is strong, with multiple theses supporting each category.",
+    "processing_timestamp": "2025-11-17T00:20:10.734129"
+  },
+  "Verhoef, dr. T. (Tessa)": {
+    "professor_name": "Verhoef, dr. T. (Tessa)",
+    "primary_research_areas": [
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Human-Computer Interaction",
+          "Natural Language Processing"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep Learning",
+          "Reinforcement Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      },
+      {
+        "top_level": "Cognitive Psychology",
+        "subcategories": [
+          "Cognitive Science",
+          "Perception and Cognition"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on human-aligned AI, with a strong emphasis on human-computer interaction and natural language processing. There is also significant evidence of research in machine learning, particularly in deep learning and reinforcement learning. Cognitive psychology is another prominent area, with a focus on cognitive science and perception and cognition.",
+    "processing_timestamp": "2025-11-17T00:20:19.821006"
+  },
+  "Verrijn Stuart, prof.dr. A.A. (Xander)": {
+    "professor_name": "Verrijn Stuart, prof.dr. A.A. (Xander)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Design",
+          "Modeling"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Methods",
+        "subcategories": [
+          "Algorithm Analysis",
+          "Decision Processes"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The thesis titles indicate a strong focus on software design and modeling, particularly in the context of information systems and dynamic systems. There is also evidence of interest in algorithm analysis and decision processes, which fall under methods. The focus on integrated object modeling, behavior modeling, and parallel decision processes supports the classification in software and methods.",
+    "processing_timestamp": "2025-11-17T00:20:23.140383"
+  },
+  "Vinkenoog, dr. M. (Marieke)": {
+    "professor_name": "Vinkenoog, dr. M. (Marieke)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Predictive modeling",
+          "Health informatics"
+        ],
+        "confidence": "high",
+        "evidence_count": 1
+      },
+      {
+        "top_level": "Statistics",
+        "subcategories": [
+          "Statistical modeling",
+          "Time series analysis"
+        ],
+        "confidence": "medium",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The thesis title 'Weather as a Trigger for Migraines: Predictive Modelling on Migraine E...' strongly indicates a focus on data science, particularly predictive modeling and health informatics. The need for statistical methods to analyze weather and migraine data suggests a secondary focus on statistics, including statistical modeling and time series analysis.",
+    "processing_timestamp": "2025-11-17T00:20:31.784345"
+  },
+  "Vis, dr. J.K. (Jonathan)": {
+    "professor_name": "Vis, dr. J.K. (Jonathan)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Reinforcement learning",
+          "Decision trees"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Algorithms",
+        "subcategories": [
+          "Game theory",
+          "Puzzle solving"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      }
+    ],
+    "analysis_summary": "The professor's research focuses heavily on developing algorithms for games and puzzles, which often involve game theory and puzzle-solving techniques. Additionally, there is a strong emphasis on machine learning, particularly in creating agents and models to predict outcomes in card games. The evidence is strong with multiple theses supporting these areas.",
+    "processing_timestamp": "2025-11-17T00:20:35.131801"
+  },
+  "Visser, prof.dr.ir. J.M.W. (Joost)": {
+    "professor_name": "Visser, prof.dr.ir. J.M.W. (Joost)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Explainable AI",
+          "AI in Business Processes"
+        ],
+        "confidence": "high",
+        "evidence_count": 15
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data Governance",
+          "Data Quality"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Agile Development",
+          "DevOps"
+        ],
+        "confidence": "high",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on the application and development of machine learning techniques, particularly in the context of explainable AI and business processes. A significant number of theses also deal with data science, emphasizing data governance and data quality. Additionally, there is a strong presence of research in software engineering, with a focus on agile development and DevOps practices.",
+    "processing_timestamp": "2025-11-17T00:20:39.109360"
+  },
+  "Vliet, dr. R. (Rudy) van": {
+    "professor_name": "Vliet, dr. R. (Rudy) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Theory",
+        "subcategories": [
+          "Algorithms",
+          "Complexity Theory"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      },
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Algorithmic Thinking",
+          "Game-Based Learning"
+        ],
+        "confidence": "medium",
+        "evidence_count": 7
+      }
+    ],
+    "analysis_summary": "The professor's supervised theses predominantly focus on algorithmic approaches to solving various games and puzzles, which falls under the category of 'Theory' with a strong emphasis on algorithms and complexity theory. Additionally, many theses involve the development and analysis of strategies for games, which suggests an interest in programming education, particularly in algorithmic thinking and game-based learning.",
+    "processing_timestamp": "2025-11-17T00:20:42.317061"
+  },
+  "Wang, dr. H. (Hao)": {
+    "professor_name": "Wang, dr. H. (Hao)",
+    "primary_research_areas": [
+      {
+        "top_level": "Optimization",
+        "subcategories": [
+          "Heuristic Optimization",
+          "Algorithm Configuration"
+        ],
+        "confidence": "high",
+        "evidence_count": 18
+      },
+      {
+        "top_level": "Machine Learning",
+        "subcategories": [
+          "Deep Learning",
+          "Ensemble Methods"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Time Series Analysis",
+          "Anomaly Detection"
+        ],
+        "confidence": "medium",
+        "evidence_count": 8
+      }
+    ],
+    "analysis_summary": "The professor's research primarily focuses on optimization techniques, particularly heuristic optimization and algorithm configuration. There is also a strong emphasis on machine learning, especially deep learning and ensemble methods. Additionally, data science topics, including time series analysis and anomaly detection, are frequently explored.",
+    "processing_timestamp": "2025-11-17T00:20:46.757330"
+  },
+  "Wang, dr. J. (Jian)": {
+    "professor_name": "Wang, dr. J. (Jian)",
+    "primary_research_areas": [
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Digital Transformation",
+          "Corporate Strategy"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Predictive Analytics",
+          "Information Integration"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Professor Wang, dr. J. (Jian) focus on business-related topics, particularly digital transformation, corporate strategy, and project management. Two theses also indicate a focus on data science, specifically in predictive analytics and information integration. These themes suggest a strong emphasis on business and a moderate involvement in data science.",
+    "processing_timestamp": "2025-11-17T00:20:51.316890"
+  },
+  "Weeren, drs. N. (Niels) van": {
+    "professor_name": "Weeren, drs. N. (Niels) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Data governance",
+          "AI in data processing"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "AI in HR",
+          "NLP applications"
+        ],
+        "confidence": "high",
+        "evidence_count": 9
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "AI in marketing",
+          "Data-driven decision making"
+        ],
+        "confidence": "medium",
+        "evidence_count": 5
+      }
+    ],
+    "analysis_summary": "The supervised theses show a strong focus on data science, particularly in data governance and AI applications for data processing. There is also significant evidence of research in machine learning, especially in AI applications for HR and natural language processing. Additionally, there is a moderate focus on business-related areas, such as AI in marketing and data-driven decision making.",
+    "processing_timestamp": "2025-11-17T00:20:59.788038"
+  },
+  "Werkhoven, Dr. B.J.C. (Ben) van": {
+    "professor_name": "Werkhoven, Dr. B.J.C. (Ben) van",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "High-Performance Computing",
+          "GPU Programming"
+        ],
+        "confidence": "high",
+        "evidence_count": 8
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Distributed Systems",
+          "Benchmarking"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles focus on optimizing and tuning GPU kernels, which is a clear indication of high-performance computing and GPU programming. There is also evidence of work in distributed systems and benchmarking, particularly in the context of auto-scalability and performance optimization.",
+    "processing_timestamp": "2025-11-17T00:21:18.895323"
+  },
+  "Wijnholds, dr. G. (Gijs)": {
+    "professor_name": "Wijnholds, dr. G. (Gijs)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "Computer Vision"
+        ],
+        "confidence": "high",
+        "evidence_count": 11
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Text Analytics",
+          "Data Generation"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Human-aligned AI",
+        "subcategories": [
+          "Ethical AI",
+          "Psycholinguistics"
+        ],
+        "confidence": "medium",
+        "evidence_count": 3
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on machine learning techniques, particularly in natural language processing (NLP) and computer vision. There is also a significant number of theses related to data science, especially in text analytics and data generation. Additionally, there is a moderate focus on human-aligned AI, including ethical considerations and psycholinguistic dimensions of AI systems.",
+    "processing_timestamp": "2025-11-17T00:21:25.413462"
+  },
+  "Wijshoff, prof.dr. H.A.G. (Harry)": {
+    "professor_name": "Wijshoff, prof.dr. H.A.G. (Harry)",
+    "primary_research_areas": [
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Compiler Optimization",
+          "Parallel and Distributed Systems"
+        ],
+        "confidence": "high",
+        "evidence_count": 14
+      },
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "High Performance Computing",
+          "Networks"
+        ],
+        "confidence": "high",
+        "evidence_count": 12
+      }
+    ],
+    "analysis_summary": "The majority of the thesis titles supervised by Professor Wijshoff focus on software optimization, particularly in the areas of compiler optimization and parallel and distributed systems. There is also a strong emphasis on systems, including high performance computing and network-related topics. These areas are supported by a significant number of thesis titles, indicating a strong and consistent research focus.",
+    "processing_timestamp": "2025-11-17T00:21:28.967319"
+  },
+  "Wolstencroft, dr. K.J. (Katy)": {
+    "professor_name": "Wolstencroft, dr. K.J. (Katy)",
+    "primary_research_areas": [
+      {
+        "top_level": "Bioinformatics",
+        "subcategories": [
+          "Genomics",
+          "Proteomics"
+        ],
+        "confidence": "high",
+        "evidence_count": 30
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "FAIR Data Principles",
+          "Network Analysis"
+        ],
+        "confidence": "high",
+        "evidence_count": 20
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Predictive Modeling",
+          "Explainable AI"
+        ],
+        "confidence": "medium",
+        "evidence_count": 10
+      }
+    ],
+    "analysis_summary": "The supervised theses primarily focus on bioinformatics, with a strong emphasis on genomics and proteomics. Many theses also involve data science, particularly in FAIR data principles and network analysis. There is also a notable presence of machine learning, especially in predictive modeling and explainable AI, but the evidence is slightly less comprehensive compared to bioinformatics and data science.",
+    "processing_timestamp": "2025-11-17T00:21:33.291583"
+  },
+  "Wolters, dr. A.A. (Lex)": {
+    "professor_name": "Wolters, dr. A.A. (Lex)",
+    "primary_research_areas": [
+      {
+        "top_level": "Systems",
+        "subcategories": [
+          "Parallel and Distributed Systems",
+          "High-Performance Computing"
+        ],
+        "confidence": "high",
+        "evidence_count": 8
+      },
+      {
+        "top_level": "Data Science",
+        "subcategories": [
+          "Modeling and Simulation",
+          "Data Processing and Optimization"
+        ],
+        "confidence": "medium",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on system-level research, particularly in parallel and distributed systems, and high-performance computing. Several theses also touch on data science, including workload modeling, performance evaluation, and data processing optimization. The strong evidence in 'Systems' and moderate evidence in 'Data Science' support these classifications.",
+    "processing_timestamp": "2025-11-17T00:21:36.680118"
+  },
+  "Yocarini, dr. I.E. (Iris)": {
+    "professor_name": "Yocarini, dr. I.E. (Iris)",
+    "primary_research_areas": [
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Social network analysis",
+          "Human activity recognition"
+        ],
+        "confidence": "high",
+        "evidence_count": 3
+      },
+      {
+        "top_level": "Programming Education",
+        "subcategories": [
+          "Instruction methods for programming"
+        ],
+        "confidence": "medium",
+        "evidence_count": 1
+      }
+    ],
+    "analysis_summary": "The majority of the supervised theses focus on data science, particularly in social network analysis and human activity recognition. There is also a moderate focus on programming education, specifically on instruction methods for programming concepts.",
+    "processing_timestamp": "2025-11-17T00:21:40.435736"
+  },
+  "Zidaric, Dr. N. (Nusa)": {
+    "professor_name": "Zidaric, Dr. N. (Nusa)",
+    "primary_research_areas": [
+      {
+        "top_level": "Security",
+        "subcategories": [
+          "Cryptographic Security",
+          "Machine Learning Security"
+        ],
+        "confidence": "high",
+        "evidence_count": 5
+      },
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Deep Learning",
+          "Reinforcement Learning"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Software",
+        "subcategories": [
+          "Software Development",
+          "Code Security"
+        ],
+        "confidence": "medium",
+        "evidence_count": 2
+      }
+    ],
+    "analysis_summary": "The professor's supervised theses strongly indicate a focus on Security, particularly in cryptographic and machine learning security. There is also a significant emphasis on Machine Learning, especially in deep learning and reinforcement learning. Additionally, there is a moderate focus on Software, particularly in software development and code security.",
+    "processing_timestamp": "2025-11-17T00:21:50.625331"
+  },
+  "Zohrehvand, dr. A.H. (Miros)": {
+    "professor_name": "Zohrehvand, dr. A.H. (Miros)",
+    "primary_research_areas": [
+      {
+        "top_level": "Machine learning",
+        "subcategories": [
+          "Natural Language Processing",
+          "Generative Models"
+        ],
+        "confidence": "high",
+        "evidence_count": 6
+      },
+      {
+        "top_level": "Data science",
+        "subcategories": [
+          "Social Media Analysis",
+          "Causal Inference"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      },
+      {
+        "top_level": "Business",
+        "subcategories": [
+          "Market Reactions",
+          "CEO Communication"
+        ],
+        "confidence": "high",
+        "evidence_count": 4
+      }
+    ],
+    "analysis_summary": "The professor's research primarily focuses on the application of machine learning in various domains, particularly in natural language processing and generative models. There is also a strong emphasis on data science, especially in analyzing social media and causal inference. Additionally, there is a significant focus on business-related topics, including market reactions and CEO communication on social media.",
+    "processing_timestamp": "2025-11-17T00:21:54.965324"
+  }
+}
