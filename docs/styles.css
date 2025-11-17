@@ -260,6 +260,220 @@ body {
     gap: 1.5rem;
 }
 
+/* Interactive Graph Section */
+.graph-section {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.graph-container {
+    background: white;
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    border: 1px solid var(--neutral-200);
+}
+
+.graph-controls {
+    padding: 1.5rem;
+    background: linear-gradient(135deg, var(--neutral-50) 0%, var(--neutral-100) 100%);
+    border-bottom: 1px solid var(--neutral-200);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.graph-btn {
+    padding: 0.75rem 1rem;
+    background: white;
+    color: var(--neutral-700);
+    border: 2px solid var(--neutral-200);
+    border-radius: var(--radius-md);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--transition-normal);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.graph-btn:hover {
+    background: var(--primary-blue);
+    color: white;
+    border-color: var(--primary-blue);
+    transform: translateY(-2px);
+}
+
+.graph-btn.active {
+    background: var(--primary-blue);
+    color: white;
+    border-color: var(--primary-blue);
+}
+
+.graph-legend {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    color: var(--neutral-600);
+}
+
+.legend-color {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.legend-color.cluster-node {
+    background: var(--primary-blue);
+}
+
+.legend-color.subcategory-node {
+    background: var(--secondary-purple);
+}
+
+.legend-color.professor-node {
+    background: var(--secondary-green);
+}
+
+.graph-wrapper {
+    position: relative;
+    background: var(--neutral-50);
+}
+
+#clusterGraph {
+    background: radial-gradient(circle at center, var(--neutral-50) 0%, var(--neutral-100) 100%);
+    cursor: grab;
+}
+
+#clusterGraph:active {
+    cursor: grabbing;
+}
+
+.graph-tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 0.75rem 1rem;
+    border-radius: var(--radius-md);
+    font-size: 0.875rem;
+    font-weight: 500;
+    pointer-events: none;
+    opacity: 0;
+    transform: translate(-50%, -100%);
+    transition: var(--transition-fast);
+    z-index: 100;
+    max-width: 200px;
+    text-align: center;
+    box-shadow: var(--shadow-lg);
+    backdrop-filter: blur(10px);
+}
+
+.graph-tooltip.visible {
+    opacity: 1;
+}
+
+.graph-tooltip::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid transparent;
+    border-top-color: rgba(0, 0, 0, 0.9);
+}
+
+/* Graph Node Styles */
+.cluster-node {
+    fill: var(--primary-blue);
+    stroke: white;
+    stroke-width: 3px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.cluster-node:hover {
+    fill: var(--primary-blue-dark);
+    stroke-width: 4px;
+    filter: drop-shadow(0 4px 8px rgba(37, 99, 235, 0.4));
+}
+
+.subcategory-node {
+    fill: var(--secondary-purple);
+    stroke: white;
+    stroke-width: 2px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.subcategory-node:hover {
+    fill: #6d28d9;
+    stroke-width: 3px;
+    filter: drop-shadow(0 3px 6px rgba(124, 58, 237, 0.4));
+}
+
+.professor-node {
+    fill: var(--secondary-green);
+    stroke: white;
+    stroke-width: 2px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.professor-node:hover {
+    fill: #047857;
+    stroke-width: 3px;
+    filter: drop-shadow(0 3px 6px rgba(16, 185, 129, 0.4));
+}
+
+.graph-link {
+    stroke: var(--neutral-300);
+    stroke-width: 2px;
+    opacity: 0.6;
+    transition: all 0.3s ease;
+}
+
+.graph-link.highlighted {
+    stroke: var(--primary-blue);
+    stroke-width: 3px;
+    opacity: 0.8;
+}
+
+.node-label {
+    fill: var(--neutral-800);
+    font-size: 12px;
+    font-weight: 500;
+    text-anchor: middle;
+    pointer-events: none;
+    text-shadow: 1px 1px 2px rgba(255,255,255,0.8);
+}
+
+.cluster-label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.subcategory-label {
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.professor-label {
+    font-size: 10px;
+    font-weight: 400;
+}
+
 .cluster-card {
     background: white;
     border-radius: var(--radius-xl);
@@ -739,6 +953,22 @@ body {
     
     .clusters-grid {
         grid-template-columns: 1fr;
+    }
+
+    .graph-controls {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 1rem;
+    }
+    
+    .graph-legend {
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+    
+    #clusterGraph {
+        height: 400px;
     }
     
     .thesis-info {

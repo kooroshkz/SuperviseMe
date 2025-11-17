@@ -4,6 +4,12 @@ let clustersData = {};
 let filteredData = {};
 let currentFilter = 'all';
 
+// Graph variables
+let graphData = { nodes: [], links: [] };
+let simulation;
+let svg, g;
+let tooltip;
+
 // DOM elements
 const loadingOverlay = document.getElementById('loadingOverlay');
 const clustersGrid = document.getElementById('clustersGrid');
@@ -11,6 +17,12 @@ const searchInput = document.getElementById('searchInput');
 const filterButtons = document.querySelectorAll('.filter-btn');
 const professorModal = document.getElementById('professorModal');
 const modalClose = document.getElementById('modalClose');
+
+// Graph elements
+const resetGraphBtn = document.getElementById('resetGraphBtn');
+const expandAllBtn = document.getElementById('expandAllBtn');
+const collapseAllBtn = document.getElementById('collapseAllBtn');
+const graphTooltip = document.getElementById('graphTooltip');
 
 // Stats elements
 const totalProfessorsEl = document.getElementById('totalProfessors');
@@ -56,6 +68,7 @@ async function initializeApp() {
         processData();
         updateStats();
         renderClusters();
+        initializeGraph();
         setupEventListeners();
         hideLoading();
         
@@ -566,4 +579,405 @@ const observer = new IntersectionObserver((entries) => {
 function observeElements() {
     const cards = document.querySelectorAll('.cluster-card');
     cards.forEach(card => observer.observe(card));
+}
+
+// ==================== INTERACTIVE GRAPH FUNCTIONALITY ====================
+
+// Initialize the interactive graph
+function initializeGraph() {
+    svg = d3.select("#clusterGraph");
+    tooltip = d3.select("#graphTooltip");
+    
+    // Get container dimensions
+    const container = document.querySelector('.graph-wrapper');
+    const width = container.clientWidth;
+    const height = 600;
+    
+    svg.attr("width", width).attr("height", height);
+    
+    // Create main group for zoom/pan
+    g = svg.append("g");
+    
+    // Setup zoom behavior
+    const zoom = d3.zoom()
+        .scaleExtent([0.1, 3])
+        .on("zoom", (event) => {
+            g.attr("transform", event.transform);
+        });
+    
+    svg.call(zoom);
+    
+    // Initialize force simulation
+    simulation = d3.forceSimulation()
+        .force("link", d3.forceLink().id(d => d.id).distance(80))
+        .force("charge", d3.forceManyBody().strength(-300))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("collision", d3.forceCollide().radius(30));
+    
+    // Generate initial graph data
+    generateGraphData();
+    updateGraph();
+    
+    // Setup graph event listeners
+    setupGraphEventListeners();
+}
+
+// Generate graph data from clusters data
+function generateGraphData() {
+    const nodes = [];
+    const links = [];
+    
+    // Add cluster nodes (main research areas)
+    Object.keys(clustersData).forEach(clusterName => {
+        const cluster = clustersData[clusterName];
+        nodes.push({
+            id: `cluster_${clusterName}`,
+            name: clusterName,
+            type: 'cluster',
+            size: Math.max(20, Math.min(40, cluster.totalProfessors * 2)),
+            professorsCount: cluster.totalProfessors,
+            subcategoriesCount: cluster.subcategories.length,
+            expanded: false,
+            cluster: clusterName
+        });
+    });
+    
+    graphData = { nodes, links };
+}
+
+// Update the graph visualization
+function updateGraph() {
+    // Remove existing elements
+    g.selectAll(".graph-link").remove();
+    g.selectAll(".node-group").remove();
+    
+    // Add links
+    const link = g.selectAll(".graph-link")
+        .data(graphData.links)
+        .enter().append("line")
+        .attr("class", "graph-link");
+    
+    // Add nodes
+    const nodeGroup = g.selectAll(".node-group")
+        .data(graphData.nodes)
+        .enter().append("g")
+        .attr("class", "node-group")
+        .call(d3.drag()
+            .on("start", dragStarted)
+            .on("drag", dragged)
+            .on("end", dragEnded));
+    
+    // Add node circles
+    nodeGroup.append("circle")
+        .attr("class", d => `${d.type}-node`)
+        .attr("r", d => d.size)
+        .on("click", handleNodeClick)
+        .on("mouseover", showTooltip)
+        .on("mousemove", moveTooltip)
+        .on("mouseout", hideTooltip);
+    
+    // Add node labels
+    nodeGroup.append("text")
+        .attr("class", d => `node-label ${d.type}-label`)
+        .attr("dy", d => d.size + 15)
+        .text(d => {
+            if (d.name.length > 12) {
+                return d.name.substring(0, 12) + "...";
+            }
+            return d.name;
+        });
+    
+    // Update simulation
+    simulation.nodes(graphData.nodes);
+    simulation.force("link").links(graphData.links);
+    
+    simulation.on("tick", () => {
+        link
+            .attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y);
+        
+        nodeGroup
+            .attr("transform", d => `translate(${d.x}, ${d.y})`);
+    });
+    
+    simulation.restart();
+}
+
+// Handle node click events
+function handleNodeClick(event, d) {
+    event.stopPropagation();
+    
+    if (d.type === 'cluster') {
+        if (d.expanded) {
+            collapseCluster(d);
+        } else {
+            expandCluster(d);
+        }
+    } else if (d.type === 'subcategory') {
+        if (d.expanded) {
+            collapseSubcategory(d);
+        } else {
+            expandSubcategory(d);
+        }
+    } else if (d.type === 'professor') {
+        showProfessorModal(d.originalName);
+    }
+    
+    updateGraph();
+}
+
+// Expand cluster to show subcategories
+function expandCluster(clusterNode) {
+    const cluster = clustersData[clusterNode.cluster];
+    clusterNode.expanded = true;
+    
+    // Add subcategory nodes
+    cluster.subcategories.forEach((subcategory, index) => {
+        const subcatId = `subcat_${clusterNode.cluster}_${subcategory}`;
+        
+        // Check if subcategory node already exists
+        if (!graphData.nodes.find(n => n.id === subcatId)) {
+            const professorsInSubcat = cluster.professors.filter(prof => 
+                prof.subcategories.includes(subcategory)
+            );
+            
+            graphData.nodes.push({
+                id: subcatId,
+                name: subcategory,
+                type: 'subcategory',
+                size: Math.max(8, Math.min(20, professorsInSubcat.length * 1.5)),
+                professorsCount: professorsInSubcat.length,
+                expanded: false,
+                cluster: clusterNode.cluster,
+                subcategory: subcategory,
+                professors: professorsInSubcat
+            });
+            
+            // Add link from cluster to subcategory
+            graphData.links.push({
+                source: clusterNode.id,
+                target: subcatId
+            });
+        }
+    });
+}
+
+// Collapse cluster (remove subcategories and professors)
+function collapseCluster(clusterNode) {
+    clusterNode.expanded = false;
+    
+    // Remove subcategory and professor nodes
+    graphData.nodes = graphData.nodes.filter(node => 
+        node.cluster !== clusterNode.cluster || node.type === 'cluster'
+    );
+    
+    // Remove related links
+    graphData.links = graphData.links.filter(link => {
+        const sourceNode = typeof link.source === 'object' ? link.source : 
+            graphData.nodes.find(n => n.id === link.source);
+        const targetNode = typeof link.target === 'object' ? link.target : 
+            graphData.nodes.find(n => n.id === link.target);
+        
+        return sourceNode && targetNode && 
+               sourceNode.cluster === clusterNode.cluster && 
+               targetNode.cluster === clusterNode.cluster ? false : true;
+    });
+}
+
+// Expand subcategory to show professors
+function expandSubcategory(subcatNode) {
+    subcatNode.expanded = true;
+    
+    // Add professor nodes
+    subcatNode.professors.forEach(professor => {
+        const profId = `prof_${subcatNode.cluster}_${subcatNode.subcategory}_${professor.name}`;
+        
+        // Check if professor node already exists
+        if (!graphData.nodes.find(n => n.id === profId)) {
+            graphData.nodes.push({
+                id: profId,
+                name: professor.name.split(' ').slice(-1)[0], // Last name only
+                originalName: professor.name,
+                type: 'professor',
+                size: 6,
+                confidence: professor.confidence,
+                evidenceCount: professor.evidenceCount,
+                thesisCount: professor.thesisCount,
+                cluster: subcatNode.cluster,
+                subcategory: subcatNode.subcategory
+            });
+            
+            // Add link from subcategory to professor
+            graphData.links.push({
+                source: subcatNode.id,
+                target: profId
+            });
+        }
+    });
+}
+
+// Collapse subcategory (remove professors)
+function collapseSubcategory(subcatNode) {
+    subcatNode.expanded = false;
+    
+    // Remove professor nodes for this subcategory
+    graphData.nodes = graphData.nodes.filter(node => 
+        !(node.cluster === subcatNode.cluster && 
+          node.subcategory === subcatNode.subcategory && 
+          node.type === 'professor')
+    );
+    
+    // Remove related links
+    graphData.links = graphData.links.filter(link => {
+        const targetNode = typeof link.target === 'object' ? link.target : 
+            graphData.nodes.find(n => n.id === link.target);
+        
+        return !(targetNode && 
+                targetNode.cluster === subcatNode.cluster && 
+                targetNode.subcategory === subcatNode.subcategory && 
+                targetNode.type === 'professor');
+    });
+}
+
+// Expand all clusters and subcategories
+function expandAll() {
+    graphData.nodes.forEach(node => {
+        if (node.type === 'cluster' && !node.expanded) {
+            expandCluster(node);
+        }
+    });
+    
+    // Expand subcategories
+    graphData.nodes.forEach(node => {
+        if (node.type === 'subcategory' && !node.expanded) {
+            expandSubcategory(node);
+        }
+    });
+    
+    updateGraph();
+}
+
+// Collapse all to show only main clusters
+function collapseAll() {
+    // Reset graph to only clusters
+    generateGraphData();
+    updateGraph();
+}
+
+// Reset graph view (center and reset zoom)
+function resetGraphView() {
+    const container = document.querySelector('.graph-wrapper');
+    const width = container.clientWidth;
+    const height = 600;
+    
+    svg.transition()
+        .duration(750)
+        .call(
+            d3.zoom().transform,
+            d3.zoomIdentity.translate(0, 0).scale(1)
+        );
+    
+    simulation.force("center", d3.forceCenter(width / 2, height / 2));
+    simulation.restart();
+}
+
+// Tooltip functions
+function showTooltip(event, d) {
+    let content = `<strong>${d.name}</strong><br>`;
+    
+    if (d.type === 'cluster') {
+        content += `${d.professorsCount} professors<br>`;
+        content += `${d.subcategoriesCount} subcategories<br>`;
+        content += `Click to ${d.expanded ? 'collapse' : 'expand'}`;
+    } else if (d.type === 'subcategory') {
+        content += `${d.professorsCount} professors<br>`;
+        content += `Click to ${d.expanded ? 'collapse' : 'expand'}`;
+    } else if (d.type === 'professor') {
+        content += `Confidence: ${d.confidence}<br>`;
+        content += `Evidence: ${d.evidenceCount}<br>`;
+        content += `Theses: ${d.thesisCount}<br>`;
+        content += `Click for details`;
+    }
+    
+    tooltip.html(content)
+        .classed('visible', true);
+    
+    moveTooltip(event);
+}
+
+function moveTooltip(event) {
+    const container = document.querySelector('.graph-wrapper');
+    const rect = container.getBoundingClientRect();
+    
+    tooltip
+        .style('left', (event.pageX - rect.left) + 'px')
+        .style('top', (event.pageY - rect.top - 10) + 'px');
+}
+
+function hideTooltip() {
+    tooltip.classed('visible', false);
+}
+
+// Drag functions
+function dragStarted(event) {
+    if (!event.active) simulation.alphaTarget(0.3).restart();
+    event.subject.fx = event.subject.x;
+    event.subject.fy = event.subject.y;
+}
+
+function dragged(event) {
+    event.subject.fx = event.x;
+    event.subject.fy = event.y;
+}
+
+function dragEnded(event) {
+    if (!event.active) simulation.alphaTarget(0);
+    event.subject.fx = null;
+    event.subject.fy = null;
+}
+
+// Setup graph event listeners
+function setupGraphEventListeners() {
+    resetGraphBtn.addEventListener('click', () => {
+        resetGraphView();
+        updateGraphButtonStates('reset');
+    });
+    
+    expandAllBtn.addEventListener('click', () => {
+        expandAll();
+        updateGraphButtonStates('expand');
+    });
+    
+    collapseAllBtn.addEventListener('click', () => {
+        collapseAll();
+        updateGraphButtonStates('collapse');
+    });
+    
+    // Handle window resize
+    window.addEventListener('resize', () => {
+        const container = document.querySelector('.graph-wrapper');
+        const width = container.clientWidth;
+        const height = 600;
+        
+        svg.attr("width", width);
+        simulation.force("center", d3.forceCenter(width / 2, height / 2));
+        simulation.restart();
+    });
+}
+
+// Update button states
+function updateGraphButtonStates(activeButton) {
+    document.querySelectorAll('.graph-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+    
+    if (activeButton === 'reset') {
+        resetGraphBtn.classList.add('active');
+    } else if (activeButton === 'expand') {
+        expandAllBtn.classList.add('active');
+    } else if (activeButton === 'collapse') {
+        collapseAllBtn.classList.add('active');
+    }
 }
