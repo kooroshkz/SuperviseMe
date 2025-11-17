@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIACS Research Clusters - Interactive Explorer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <h1 class="main-title">
+                        <i class="fas fa-university"></i>
+                        LIACS Research Clusters
+                    </h1>
+                    <p class="subtitle">Interactive exploration of research domains and faculty expertise</p>
+                </div>
+                <div class="stats-section">
+                    <div class="stat-card">
+                        <span class="stat-number" id="totalProfessors">0</span>
+                        <span class="stat-label">Professors</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-number" id="totalClusters">0</span>
+                        <span class="stat-label">Research Areas</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-number" id="totalSubcategories">0</span>
+                        <span class="stat-label">Subcategories</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Search and Filter Bar -->
+        <div class="filter-section">
+            <div class="search-container">
+                <i class="fas fa-search"></i>
+                <input type="text" id="searchInput" placeholder="Search professors, research areas, or keywords...">
+            </div>
+            <div class="filter-controls">
+                <button class="filter-btn active" data-confidence="all">
+                    <i class="fas fa-filter"></i> All Confidence
+                </button>
+                <button class="filter-btn" data-confidence="high">High Confidence</button>
+                <button class="filter-btn" data-confidence="medium">Medium Confidence</button>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Research Clusters Grid -->
+            <section class="clusters-section">
+                <h2 class="section-title">
+                    <i class="fas fa-project-diagram"></i>
+                    Research Clusters
+                </h2>
+                <div class="clusters-grid" id="clustersGrid">
+                    <!-- Clusters will be populated by JavaScript -->
+                </div>
+            </section>
+
+            <!-- Professor Modal -->
+            <div class="modal-overlay" id="professorModal">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 id="modalProfessorName"></h3>
+                        <button class="modal-close" id="modalClose">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="research-areas" id="modalResearchAreas">
+                            <!-- Research areas will be populated -->
+                        </div>
+                        <div class="analysis-summary">
+                            <h4><i class="fas fa-lightbulb"></i> Research Summary</h4>
+                            <p id="modalAnalysisSummary"></p>
+                        </div>
+                        <div class="thesis-info">
+                            <div class="info-item">
+                                <i class="fas fa-graduation-cap"></i>
+                                <span>Supervised Theses: <strong id="modalThesisCount">0</strong></span>
+                            </div>
+                            <div class="info-item">
+                                <i class="fas fa-calendar-alt"></i>
+                                <span>Last Updated: <strong id="modalTimestamp"></strong></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>About This Project</h4>
+                    <p>An automated system for classifying LIACS faculty research areas using AI analysis of thesis supervision data.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Data Source</h4>
+                    <p><a href="https://theses.liacs.nl/supervisors" target="_blank">LIACS Thesis Repository</a></p>
+                    <p>4,340 theses analyzed • 142 professors classified</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Technology</h4>
+                    <p>OpenRouter API • Qwen 2.5 72B • 100% success rate</p>
+                    <p><a href="https://github.com/kooroshkz/SuperviseMe" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a></p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Loading Animation -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>Loading research data...</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
